@@ -1,9 +1,7 @@
 exports.config = {
-  bundles: [
-    { components: ['my-name'] }
-  ],
+  bundles: [],
   collections: [
-    { name: '@stencil/router' }
+    { name: '@ionic/core' }
   ]
 };
 

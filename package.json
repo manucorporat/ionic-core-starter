@@ -12,11 +12,15 @@
     "serve": "stencil-dev-server",
     "start": "npm run dev",
     "test": "jest --no-cache",
-    "test.watch": "jest --watch --no-cache"
+    "test.watch": "jest --watch --no-cache",
+    "ionic:build": "npm run build",
+    "ionic:serve": "npm run dev"
   },
   "dependencies": {
+    "@ionic/core": "0.0.2-21",
     "@stencil/core": "next",
-    "@stencil/router": "latest"
+    "@stencil/router": "latest",
+    "ionicons": "^4.0.0-6"
   },
   "devDependencies": {
     "@stencil/dev-server": "latest",

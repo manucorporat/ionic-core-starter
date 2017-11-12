@@ -4,33 +4,93 @@
  * and imports for stencil collections that might be configured in your stencil.config.js file
  */
 
-import '@stencil/router';
+import '@ionic/core';
 
-import { MyName as MyName } from './components/my-name/my-name';
+import { App as MyApp } from './app/app';
 
-interface HTMLMyNameElement extends MyName, HTMLElement {
+interface HTMLMyAppElement extends MyApp, HTMLElement {
 }
-declare var HTMLMyNameElement: {
-  prototype: HTMLMyNameElement;
-  new (): HTMLMyNameElement;
+declare var HTMLMyAppElement: {
+  prototype: HTMLMyAppElement;
+  new (): HTMLMyAppElement;
 };
 declare global {
   interface HTMLElementTagNameMap {
-      "my-name": HTMLMyNameElement;
+      "my-app": HTMLMyAppElement;
   }
   interface ElementTagNameMap {
-      "my-name": HTMLMyNameElement;
+      "my-app": HTMLMyAppElement;
   }
   namespace JSX {
       interface IntrinsicElements {
-          "my-name": JSXElements.MyNameAttributes;
+          "my-app": JSXElements.MyAppAttributes;
       }
   }
   namespace JSXElements {
-      export interface MyNameAttributes extends HTMLAttributes {
+      export interface MyAppAttributes extends HTMLAttributes {
+          mode?: string,
+          color?: string,
         
-          first?: any,
-          last?: any
+      }
+  }
+}
+
+import { HomePage as PageHome } from './pages/home/home';
+
+interface HTMLPageHomeElement extends PageHome, HTMLElement {
+}
+declare var HTMLPageHomeElement: {
+  prototype: HTMLPageHomeElement;
+  new (): HTMLPageHomeElement;
+};
+declare global {
+  interface HTMLElementTagNameMap {
+      "page-home": HTMLPageHomeElement;
+  }
+  interface ElementTagNameMap {
+      "page-home": HTMLPageHomeElement;
+  }
+  namespace JSX {
+      interface IntrinsicElements {
+          "page-home": JSXElements.PageHomeAttributes;
+      }
+  }
+  namespace JSXElements {
+      export interface PageHomeAttributes extends HTMLAttributes {
+          mode?: string,
+          color?: string,
+        
+          first?: string,
+          last?: string
+      }
+  }
+}
+
+import { ListPage as PageList } from './pages/list/list';
+
+interface HTMLPageListElement extends PageList, HTMLElement {
+}
+declare var HTMLPageListElement: {
+  prototype: HTMLPageListElement;
+  new (): HTMLPageListElement;
+};
+declare global {
+  interface HTMLElementTagNameMap {
+      "page-list": HTMLPageListElement;
+  }
+  interface ElementTagNameMap {
+      "page-list": HTMLPageListElement;
+  }
+  namespace JSX {
+      interface IntrinsicElements {
+          "page-list": JSXElements.PageListAttributes;
+      }
+  }
+  namespace JSXElements {
+      export interface PageListAttributes extends HTMLAttributes {
+          mode?: string,
+          color?: string,
+        
       }
   }
 }
