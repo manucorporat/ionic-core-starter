@@ -6,92 +6,95 @@
 
 import '@ionic/core';
 
-import { App as MyApp } from './app/app';
 
-interface HTMLMyAppElement extends MyApp, HTMLElement {
-}
-declare var HTMLMyAppElement: {
-  prototype: HTMLMyAppElement;
-  new (): HTMLMyAppElement;
-};
+import {
+  App as MyApp
+} from './app/app';
+
 declare global {
+  interface HTMLMyAppElement extends MyApp, HTMLElement {
+  }
+  var HTMLMyAppElement: {
+    prototype: HTMLMyAppElement;
+    new (): HTMLMyAppElement;
+  };
   interface HTMLElementTagNameMap {
-      "my-app": HTMLMyAppElement;
+    "my-app": HTMLMyAppElement;
   }
   interface ElementTagNameMap {
-      "my-app": HTMLMyAppElement;
+    "my-app": HTMLMyAppElement;
   }
   namespace JSX {
-      interface IntrinsicElements {
-          "my-app": JSXElements.MyAppAttributes;
-      }
+    interface IntrinsicElements {
+      "my-app": JSXElements.MyAppAttributes;
+    }
   }
   namespace JSXElements {
-      export interface MyAppAttributes extends HTMLAttributes {
-          mode?: string,
-          color?: string,
-        
-      }
+    export interface MyAppAttributes extends HTMLAttributes {
+      
+    }
   }
 }
 
-import { HomePage as PageHome } from './pages/home/home';
 
-interface HTMLPageHomeElement extends PageHome, HTMLElement {
-}
-declare var HTMLPageHomeElement: {
-  prototype: HTMLPageHomeElement;
-  new (): HTMLPageHomeElement;
-};
+import {
+  HomePage as PageHome
+} from './pages/home/home';
+
 declare global {
+  interface HTMLPageHomeElement extends PageHome, HTMLElement {
+  }
+  var HTMLPageHomeElement: {
+    prototype: HTMLPageHomeElement;
+    new (): HTMLPageHomeElement;
+  };
   interface HTMLElementTagNameMap {
-      "page-home": HTMLPageHomeElement;
+    "page-home": HTMLPageHomeElement;
   }
   interface ElementTagNameMap {
-      "page-home": HTMLPageHomeElement;
+    "page-home": HTMLPageHomeElement;
   }
   namespace JSX {
-      interface IntrinsicElements {
-          "page-home": JSXElements.PageHomeAttributes;
-      }
+    interface IntrinsicElements {
+      "page-home": JSXElements.PageHomeAttributes;
+    }
   }
   namespace JSXElements {
-      export interface PageHomeAttributes extends HTMLAttributes {
-          mode?: string,
-          color?: string,
-        
-          first?: string,
-          last?: string
-      }
+    export interface PageHomeAttributes extends HTMLAttributes {
+      
+        first?: string,
+        last?: string
+    }
   }
 }
 
-import { ListPage as PageList } from './pages/list/list';
 
-interface HTMLPageListElement extends PageList, HTMLElement {
-}
-declare var HTMLPageListElement: {
-  prototype: HTMLPageListElement;
-  new (): HTMLPageListElement;
-};
+import {
+  ListPage as PageList
+} from './pages/list/list';
+
 declare global {
+  interface HTMLPageListElement extends PageList, HTMLElement {
+  }
+  var HTMLPageListElement: {
+    prototype: HTMLPageListElement;
+    new (): HTMLPageListElement;
+  };
   interface HTMLElementTagNameMap {
-      "page-list": HTMLPageListElement;
+    "page-list": HTMLPageListElement;
   }
   interface ElementTagNameMap {
-      "page-list": HTMLPageListElement;
+    "page-list": HTMLPageListElement;
   }
   namespace JSX {
-      interface IntrinsicElements {
-          "page-list": JSXElements.PageListAttributes;
-      }
+    interface IntrinsicElements {
+      "page-list": JSXElements.PageListAttributes;
+    }
   }
   namespace JSXElements {
-      export interface PageListAttributes extends HTMLAttributes {
-          mode?: string,
-          color?: string,
-        
-      }
+    export interface PageListAttributes extends HTMLAttributes {
+      
+    }
   }
 }
 
