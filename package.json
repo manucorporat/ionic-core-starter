@@ -15,7 +15,7 @@
     "test.watch": "jest --watch --no-cache",
     "ionic:build": "npm run build",
     "ionic:serve": "npm run dev",
-    "www": "bs --no-cleanup --hook build --directory www"
+    "www": "bs --no-cleanup --directory ./www"
   },
   "dependencies": {
     "@ionic/core": "0.0.2-23",
