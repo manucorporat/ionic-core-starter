@@ -8,6 +8,36 @@ import '@ionic/core';
 
 
 import {
+  App as MyApp
+} from './app/app';
+
+declare global {
+  interface HTMLMyAppElement extends MyApp, HTMLElement {
+  }
+  var HTMLMyAppElement: {
+    prototype: HTMLMyAppElement;
+    new (): HTMLMyAppElement;
+  };
+  interface HTMLElementTagNameMap {
+    "my-app": HTMLMyAppElement;
+  }
+  interface ElementTagNameMap {
+    "my-app": HTMLMyAppElement;
+  }
+  namespace JSX {
+    interface IntrinsicElements {
+      "my-app": JSXElements.MyAppAttributes;
+    }
+  }
+  namespace JSXElements {
+    export interface MyAppAttributes extends HTMLAttributes {
+      
+    }
+  }
+}
+
+
+import {
   DetailsPage as PageDetails
 } from './pages/details/details';
 
@@ -101,6 +131,36 @@ declare global {
       width?: number;
       data?: any[];
       title?: string;
+    }
+  }
+}
+
+
+import {
+  RangePage as PageRange
+} from './pages/range/range';
+
+declare global {
+  interface HTMLPageRangeElement extends PageRange, HTMLElement {
+  }
+  var HTMLPageRangeElement: {
+    prototype: HTMLPageRangeElement;
+    new (): HTMLPageRangeElement;
+  };
+  interface HTMLElementTagNameMap {
+    "page-range": HTMLPageRangeElement;
+  }
+  interface ElementTagNameMap {
+    "page-range": HTMLPageRangeElement;
+  }
+  namespace JSX {
+    interface IntrinsicElements {
+      "page-range": JSXElements.PageRangeAttributes;
+    }
+  }
+  namespace JSXElements {
+    export interface PageRangeAttributes extends HTMLAttributes {
+      
     }
   }
 }
