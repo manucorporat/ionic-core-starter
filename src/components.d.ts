@@ -8,30 +8,31 @@ import '@ionic/core';
 
 
 import {
-  App as MyApp
-} from './app/app';
+  DetailsPage as PageDetails
+} from './pages/details/details';
 
 declare global {
-  interface HTMLMyAppElement extends MyApp, HTMLElement {
+  interface HTMLPageDetailsElement extends PageDetails, HTMLElement {
   }
-  var HTMLMyAppElement: {
-    prototype: HTMLMyAppElement;
-    new (): HTMLMyAppElement;
+  var HTMLPageDetailsElement: {
+    prototype: HTMLPageDetailsElement;
+    new (): HTMLPageDetailsElement;
   };
   interface HTMLElementTagNameMap {
-    "my-app": HTMLMyAppElement;
+    "page-details": HTMLPageDetailsElement;
   }
   interface ElementTagNameMap {
-    "my-app": HTMLMyAppElement;
+    "page-details": HTMLPageDetailsElement;
   }
   namespace JSX {
     interface IntrinsicElements {
-      "my-app": JSXElements.MyAppAttributes;
+      "page-details": JSXElements.PageDetailsAttributes;
     }
   }
   namespace JSXElements {
-    export interface MyAppAttributes extends HTMLAttributes {
-      
+    export interface PageDetailsAttributes extends HTMLAttributes {
+      title?: string;
+      data?: any[];
     }
   }
 }
@@ -62,38 +63,44 @@ declare global {
   namespace JSXElements {
     export interface PageHomeAttributes extends HTMLAttributes {
       
-        first?: string,
-        last?: string
     }
   }
 }
 
 
 import {
-  ListPage as PageList
-} from './pages/list/list';
+  Heapmap as MyHeatmap
+} from './pages/my-heatmap/heatmap';
 
 declare global {
-  interface HTMLPageListElement extends PageList, HTMLElement {
+  interface HTMLMyHeatmapElement extends MyHeatmap, HTMLElement {
   }
-  var HTMLPageListElement: {
-    prototype: HTMLPageListElement;
-    new (): HTMLPageListElement;
+  var HTMLMyHeatmapElement: {
+    prototype: HTMLMyHeatmapElement;
+    new (): HTMLMyHeatmapElement;
   };
   interface HTMLElementTagNameMap {
-    "page-list": HTMLPageListElement;
+    "my-heatmap": HTMLMyHeatmapElement;
   }
   interface ElementTagNameMap {
-    "page-list": HTMLPageListElement;
+    "my-heatmap": HTMLMyHeatmapElement;
   }
   namespace JSX {
     interface IntrinsicElements {
-      "page-list": JSXElements.PageListAttributes;
+      "my-heatmap": JSXElements.MyHeatmapAttributes;
     }
   }
   namespace JSXElements {
-    export interface PageListAttributes extends HTMLAttributes {
-      
+    export interface MyHeatmapAttributes extends HTMLAttributes {
+      min?: number;
+      max?: number;
+      heatMax?: number;
+      heatSize?: number;
+      heatBlur?: number;
+      height?: number;
+      width?: number;
+      data?: any[];
+      title?: string;
     }
   }
 }

@@ -1,0 +1,5713 @@
+[{
+	"min": 8.3,
+	"max": 9,
+	"text": "AYUDAS A LA METEOROLOGiA"
+},
+{
+	"min": 9,
+	"max": 11.3,
+	"text": "AYUDAS A LA METEOROLOGiA?RADIONAVEGACIoN"
+},
+{
+	"min": 11.3,
+	"max": 14,
+	"text": "RADIONAVEGACIoN"
+},
+{
+	"min": 14,
+	"max": 19.95,
+	"text": "FIJO?MoVIL MARiTIMO"
+},
+{
+	"min": 19.95,
+	"max": 20.05,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS 20 kHz"
+},
+
+{
+	"min": 20.05,
+	"max": 70,
+	"text": "FIJO?MoVIL MARiTIMO"
+},
+
+{
+	"min": 90,
+	"max": 110,
+	"text": "RADIONAVEGACIoN?FIJO"
+},
+{
+	"min": 110,
+	"max": 112,
+	"text": "FIJO?MoVIL MARiTIMO?RADIONAVEGACIoN"
+},
+{
+	"min": 110,
+	"max": 130,
+	"text": "FIJO?MoVIL MARiTIMO?RADIONAVEGACIoN MARiTIMA?RADIOLOCALIZACIoN"
+},
+{
+	"min": 110,
+	"max": 112,
+	"text": "FIJO?MoVIL MARiTIMO?RADIONAVEGACIoN"
+},
+{
+	"min": 110,
+	"max": 112,
+	"text": "FIJO?MoVIL MARiTIMO?RADIONAVEGACIoN"
+},
+{
+	"min": 112,
+	"max": 115,
+	"text": "RADIONAVEGACIoN"
+},
+{
+	"min": 112,
+	"max": 117.6,
+	"text": "RADIONAVEGACIoN?FIJO?MoVIL MARiTIMO"
+},
+{
+	"min": 112,
+	"max": 115,
+	"text": "RADIONAVEGACIoN"
+},
+{
+	"min": 115,
+	"max": 117.6,
+	"text": "RADIONAVEGACIoN?MoVIL MARiTIMO?FIJO"
+},
+{
+	"min": 117.6,
+	"max": 126,
+	"text": "FIJO?MoVIL MARiTIMO?RADIONAVEGACIoN"
+},
+{
+	"min": 117.6,
+	"max": 126,
+	"text": "FIJO?MoVIL MARiTIMO?RADIONAVEGACIoN"
+},
+{
+	"min": 117.6,
+	"max": 126,
+	"text": "FIJO?MoVIL MARiTIMO?RADIONAVEGACIoN"
+},
+{
+	"min": 126,
+	"max": 129,
+	"text": "RADIONAVEGACIoN"
+},
+{
+	"min": 126,
+	"max": 129,
+	"text": "RADIONAVEGACIoN?FIJO?MoVIL MARiTIMO"
+},
+{
+	"min": 126,
+	"max": 129,
+	"text": "RADIONAVEGACIoN"
+},
+{
+	"min": 129,
+	"max": 130,
+	"text": "FIJO?MoVIL MARiTIMO?RADIONAVEGACIoN"
+},
+{
+	"min": 130,
+	"max": 135.7,
+	"text": "FIJO?MoVIL MARiTIMO"
+},
+{
+	"min": 130,
+	"max": 135.7,
+	"text": "FIJO?MoVIL MARiTIMO"
+},
+{
+	"min": 130,
+	"max": 135.7,
+	"text": "FIJO?MoVIL MARiTIMO?RADIONAVEGACIoN"
+},
+{
+	"min": 135.7,
+	"max": 137.8,
+	"text": "FIJO?MoVIL MARiTIMO?Aficionados"
+},
+{
+	"min": 137.8,
+	"max": 148.5,
+	"text": "FIJO?MoVIL MARiTIMO"
+},
+{
+	"min": 137.8,
+	"max": 160,
+	"text": "FIJO?MoVIL MARiTIMO"
+},
+{
+	"min": 137.8,
+	"max": 160,
+	"text": "FIJO?MoVIL MARiTIMO?RADIONAVEGACIoN"
+},
+{
+	"min": 137.8,
+	"max": 148.5,
+	"text": "FIJO?MoVIL MARiTIMO"
+},
+{
+	"min": 148.5,
+	"max": 255,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 148.5,
+	"max": 255,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 160,
+	"max": 190,
+	"text": "FIJO"
+},
+{
+	"min": 160,
+	"max": 190,
+	"text": "FIJO?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 190,
+	"max": 200,
+	"text": "RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 200,
+	"max": 275,
+	"text": "RADIONAVEGACIoN AERONaUTICA? Movil aeronautico"
+},
+{
+	"min": 200,
+	"max": 285,
+	"text": "RADIONAVEGACIoN AERONaUTICA? Movil aeronautico"
+},
+{
+	"min": 255,
+	"max": 283.5,
+	"text": "RADIODIFUSIoN?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 255,
+	"max": 283.5,
+	"text": "RADIODIFUSIoN?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 275,
+	"max": 285,
+	"text": "RADIONAVEGACIoN AERONaUTICA?MoVIL AERONaUTICO?RADIONAVEGACIoN MARiTIMA"
+},
+{
+	"min": 283.5,
+	"max": 315,
+	"text": "RADIONAVEGACIoN AERONaUTICA?RADIONAVEGACIoN MARiTIMA"
+},
+{
+	"min": 283.5,
+	"max": 315,
+	"text": "RADIONAVEGACIoN AERONaUTICA?RADIONAVEGACIoN MARiTIMA"
+},
+{
+	"min": 285,
+	"max": 315,
+	"text": "RADIONAVEGACIoN AERONaUTICA?RADIONAVEGACIoN MARiTIMA"
+},
+{
+	"min": 315,
+	"max": 325,
+	"text": "RADIONAVEGACIoN AERONaUTICA?RADIONAVEGACIoN MARiTIMA"
+},
+{
+	"min": 315,
+	"max": 325,
+	"text": "RADIONAVEGACIoN MARiTIMA?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 315,
+	"max": 325,
+	"text": "RADIONAVEGACIoN AERONaUTICA?RADIONAVEGACIoN MARiTIMA"
+},
+{
+	"min": 315,
+	"max": 325,
+	"text": "RADIONAVEGACIoN AERONaUTICA?RADIONAVEGACIoN MARiTIMA"
+},
+{
+	"min": 325,
+	"max": 405,
+	"text": "RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 325,
+	"max": 335,
+	"text": "RADIONAVEGACIoN AERONaUTICA?MoVIL AERONaUTICO?RADIONAVEGACIoN MARiTIMA"
+},
+{
+	"min": 325,
+	"max": 405,
+	"text": "RADIONAVEGACIoN AERONaUTICA? Movil aeronautico"
+},
+{
+	"min": 325,
+	"max": 405,
+	"text": "RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 335,
+	"max": 405,
+	"text": "RADIONAVEGACIoN AERONaUTICA? Movil aeronautico"
+},
+{
+	"min": 405,
+	"max": 415,
+	"text": "RADIONAVEGACIoN"
+},
+{
+	"min": 405,
+	"max": 415,
+	"text": "RADIONAVEGACIoN Movil aeronautico"
+},
+{
+	"min": 405,
+	"max": 415,
+	"text": "RADIONAVEGACIoN"
+},
+{
+	"min": 415,
+	"max": 435,
+	"text": "MoVIL MARiTIMO?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 415,
+	"max": 472,
+	"text": "MoVIL MARiTIMO?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 415,
+	"max": 435,
+	"text": "MoVIL MARiTIMO?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 435,
+	"max": 472,
+	"text": "MoVIL MARiTIMO?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 435,
+	"max": 472,
+	"text": "MoVIL MARiTIMO?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 526.5,
+	"max": 1606.5,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 526.5,
+	"max": 535,
+	"text": "RADIODIFUSIoN?MoVIL"
+},
+{
+	"min": 526.5,
+	"max": 1606.5,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 1606.5,
+	"max": 1625,
+	"text": "FIJO?MoVIL MARiTIMO?MoVIL TERRESTRE"
+},
+{
+	"min": 1605,
+	"max": 1625,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 1606.5,
+	"max": 1800,
+	"text": "FIJO? MoVIL?RADIOLOCALIZACIoN?RADIONAVEGACIoN"
+},
+{
+	"min": 1606.5,
+	"max": 1625,
+	"text": "FIJO?MoVIL MARiTIMO?MoVIL TERRESTRE"
+},
+{
+	"min": 1625,
+	"max": 1635,
+	"text": "RADIOLOCALIZACIoN"
+},
+{
+	"min": 1625,
+	"max": 1705,
+	"text": "RADIODIFUSIoN?FIJO? MoVIL?RADIOLOCALIZACIoN"
+},
+{
+	"min": 1625,
+	"max": 1635,
+	"text": "RADIOLOCALIZACIoN"
+},
+{
+	"min": 1635,
+	"max": 1800,
+	"text": "FIJO?MoVIL MARiTIMO?MoVIL TERRESTRE"
+},
+{
+	"min": 1635,
+	"max": 1800,
+	"text": "FIJO?MoVIL MARiTIMO?MoVIL TERRESTRE"
+},
+{
+	"min": 1705,
+	"max": 1800,
+	"text": "FIJO? MoVIL?RADIOLOCALIZACIoN?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 1800,
+	"max": 1810,
+	"text": "RADIOLOCALIZACIoN"
+},
+{
+	"min": 1800,
+	"max": 1850,
+	"text": "Aficionados"
+},
+{
+	"min": 1800,
+	"max": 2000,
+	"text": "Aficionados?FIJO?MoVIL, salvo movil aeronautico?RADIONAVEGACIoN?RADIOLOCALIZACIoN"
+},
+{
+	"min": 1810,
+	"max": 1850,
+	"text": "Aficionados"
+},
+{
+	"min": 1810,
+	"max": 1830,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?Aficionados"
+},
+{
+	"min": 1830,
+	"max": 1850,
+	"text": "Aficionados"
+},
+{
+	"min": 1850,
+	"max": 2000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1850,
+	"max": 2000,
+	"text": "Aficionados?FIJO?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN?RADIONAVEGACIoN"
+},
+{
+	"min": 1850,
+	"max": 2000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 2000,
+	"max": 2025,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 2000,
+	"max": 2065,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 2000,
+	"max": 2025,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 2025,
+	"max": 2045,
+	"text": "FIJO? MoVIL, salvo movil aeronautico R?AYUDAS A LA METEOROLOGiA"
+},
+{
+	"min": 2025,
+	"max": 2045,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R?AYUDAS A LA METEOROLOGiA"
+},
+{
+	"min": 2045,
+	"max": 2160,
+	"text": "FIJO?MoVIL MARiTIMO?MoVIL TERRESTRE"
+},
+{
+	"min": 2045,
+	"max": 2160,
+	"text": "FIJO?MoVIL MARiTIMO?MoVIL TERRESTRE"
+},
+{
+	"min": 2065,
+	"max": 2107,
+	"text": "MoVIL MARiTIMO"
+},
+{
+	"min": 2160,
+	"max": 2170,
+	"text": "RadiolocalizaCIoN"
+},
+{
+	"min": 2107,
+	"max": 2170,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 2160,
+	"max": 2170,
+	"text": "RADIOLOCALIZACIoN"
+},
+{
+	"min": 2170,
+	"max": 2173.5,
+	"text": "MoVIL MARiTIMO"
+},
+{
+	"min": 2173.5,
+	"max": 2190.5,
+	"text": "MoVIL socorro y llamada"
+},
+{
+	"min": 2173.5,
+	"max": 2190.5,
+	"text": "MoVIL socorro y llamada"
+},
+{
+	"min": 2190.5,
+	"max": 2194,
+	"text": "MoVIL MARiTIMO"
+},
+{
+	"min": 2190.5,
+	"max": 2194,
+	"text": "MoVIL MARiTIMO"
+},
+{
+	"min": 2194,
+	"max": 2300,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 2194,
+	"max": 2300,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 2194,
+	"max": 2300,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 2300,
+	"max": 2498,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R?RADIODIFUSIoN"
+},
+{
+	"min": 2300,
+	"max": 2495,
+	"text": "FIJO?MoVIL?RADIODIFUSIoN"
+},
+{
+	"min": 2300,
+	"max": 2498,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R?RADIODIFUSIoN"
+},
+{
+	"min": 2495,
+	"max": 2501,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS 2500 kHz"
+},
+{
+	"min": 2498,
+	"max": 2501,
+	"text": "FRECUENCIAS PATRoN Y SE niALES HORA RIAS 2500 kHz"
+},
+{
+	"min": 2498,
+	"max": 2501,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS 2500 kHz"
+},
+{
+	"min": 2501,
+	"max": 2502,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS?Investigacion espacial"
+},
+{
+	"min": 2502,
+	"max": 2625,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 2502,
+	"max": 2505,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS"
+},
+{
+	"min": 2502,
+	"max": 2625,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 2505,
+	"max": 2850,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 2625,
+	"max": 2650,
+	"text": "MoVIL MARiTIMO?RADIONAVEGACIoN MARiTIMA"
+},
+{
+	"min": 2650,
+	"max": 2850,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 2850,
+	"max": 3025,
+	"text": "MoVIL AERONaUTICO R"
+},
+{
+	"min": 3025,
+	"max": 3155,
+	"text": "MoVIL AERONaUTICO OR"
+},
+{
+	"min": 3155,
+	"max": 3200,
+	"text": "MoVIL, salvo MoVIL AERONaUTICO R?FIJO"
+},
+{
+	"min": 3200,
+	"max": 3230,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R?RADIODIFUSIoN"
+},
+{
+	"min": 3200,
+	"max": 3230,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R?RADIODIFUSIoN"
+},
+{
+	"min": 3230,
+	"max": 3400,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIODIFUSIoN"
+},
+{
+	"min": 3400,
+	"max": 3500,
+	"text": "MoVIL AERONaUTICO R"
+},
+{
+	"min": 3500,
+	"max": 3800,
+	"text": "Aficionados?FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 3500,
+	"max": 3750,
+	"text": "Aficionados"
+},
+{
+	"min": 3500,
+	"max": 3900,
+	"text": "Aficionados?FIJO?MoVIL"
+},
+{
+	"min": 3500,
+	"max": 3800,
+	"text": "Aficionados?FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 3750,
+	"max": 4000,
+	"text": "Aficionados?FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 3800,
+	"max": 3900,
+	"text": "FIJO?MoVIL AERONaUTICO OR?MoVIL TERRESTRE"
+},
+{
+	"min": 3800,
+	"max": 3900,
+	"text": "FIJO?MoVIL TERRESTRE?MoVIL AERONaUTICO OR"
+},
+{
+	"min": 3900,
+	"max": 3950,
+	"text": "MoVIL AERONaUTICO OR"
+},
+{
+	"min": 3900,
+	"max": 3950,
+	"text": "MoVIL AERONAUTICO?RADIODIFUSIoN"
+},
+{
+	"min": 3900,
+	"max": 3950,
+	"text": "MoVIL AERONaUTICO OR"
+},
+{
+	"min": 3950,
+	"max": 4000,
+	"text": "FIJO?RADIODIFUSIoN"
+},
+{
+	"min": 3950,
+	"max": 4000,
+	"text": "FIJO?RADIODIFUSIoN"
+},
+{
+	"min": 3950,
+	"max": 4000,
+	"text": "FIJO?RADIODIFUSIoN"
+},
+{
+	"min": 4000,
+	"max": 4063,
+	"text": "FIJO?MoVIL MARiTIMO"
+},
+{
+	"min": 4063,
+	"max": 4438,
+	"text": "MoVIL MARiTIMO"
+},
+{
+	"min": 4438,
+	"max": 4488,
+	"text": "FIJO? MoVIL, salvo MoVIL AERONaUTICO R?RADIOLOCALIZACIoN"
+},
+{
+	"min": 4438,
+	"max": 4488,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 4438,
+	"max": 4488,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R?RADIOLOCALIZACIoN"
+},
+{
+	"min": 4488,
+	"max": 4650,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 4488,
+	"max": 4650,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 4488,
+	"max": 4650,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 4650,
+	"max": 4700,
+	"text": "MoVIL AERONaUTICO R"
+},
+{
+	"min": 4700,
+	"max": 4750,
+	"text": "MoVIL AERONaUTICO OR"
+},
+{
+	"min": 4750,
+	"max": 4850,
+	"text": "FIJO?MoVIL AERONaUTICO OR?MoVIL TERRESTRE?RADIODIFUSIoN"
+},
+{
+	"min": 4750,
+	"max": 4850,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R?RADIODIFUSIoN"
+},
+{
+	"min": 4750,
+	"max": 4850,
+	"text": "FIJO?RADIODIFUSIoN?MoVIL TERRESTRE"
+},
+{
+	"min": 4750,
+	"max": 4850,
+	"text": "FIJO?MoVIL TERRESTRE?MoVIL AERONaUTICO OR?RADIODIFUSIoN"
+},
+{
+	"min": 4850,
+	"max": 4995,
+	"text": "FIJO?MoVIL TERRESTRE?RADIODIFUSIoN"
+},
+{
+	"min": 4995,
+	"max": 5003,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS 5000 kHz"
+},
+{
+	"min": 5003,
+	"max": 5005,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS?Investigacion espacial"
+},
+{
+	"min": 5005,
+	"max": 5060,
+	"text": "FIJO?RADIODIFUSIoN"
+},
+{
+	"min": 5005,
+	"max": 5060,
+	"text": "FIJO?RADIODIFUSIoN"
+},
+{
+	"min": 5060,
+	"max": 5250,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 5250,
+	"max": 5275,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 5250,
+	"max": 5275,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 5250,
+	"max": 5275,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 5275,
+	"max": 5351.5,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 5351.5,
+	"max": 5366.5,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?Aficionados"
+},
+{
+	"min": 5366.5,
+	"max": 5450,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 5366.5,
+	"max": 5450,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 5450,
+	"max": 5480,
+	"text": "FIJO? MoVIL AERONaTICO OR?MoVIL TERRESTRE"
+},
+{
+	"min": 5450,
+	"max": 5480,
+	"text": "MoVIL AERONaUTICO R"
+},
+{
+	"min": 5450,
+	"max": 5480,
+	"text": "FIJO? MoVIL AERONaTICO OR?MoVIL TERRESTRE"
+},
+{
+	"min": 5450,
+	"max": 5480,
+	"text": "FIJO?MoVIL TERRESTRE?MoVIL AERONaUTICO OR"
+},
+{
+	"min": 5480,
+	"max": 5680,
+	"text": "MoVIL AERONaUTICO R"
+},
+{
+	"min": 5680,
+	"max": 5730,
+	"text": "MoVIL AERONaUTICO OR"
+},
+{
+	"min": 5730,
+	"max": 5900,
+	"text": "FIJO?MoVIL TERRESTRE"
+},
+{
+	"min": 5730,
+	"max": 5900,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 5730,
+	"max": 5900,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 5730,
+	"max": 5900,
+	"text": "FIJO?MoVIL TERRESTRE"
+},
+{
+	"min": 5900,
+	"max": 5950,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 5950,
+	"max": 6200,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 6200,
+	"max": 6525,
+	"text": "MoVIL MARiTIMO"
+},
+{
+	"min": 6525,
+	"max": 6685,
+	"text": "MoVIL AERONaUTICO R"
+},
+{
+	"min": 6685,
+	"max": 6765,
+	"text": "MoVIL AERONaUTICO OR"
+},
+{
+	"min": 6765,
+	"max": 7000,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 7000,
+	"max": 7100,
+	"text": "Aficionados?AFICIONADOS POR SATeLITE"
+},
+{
+	"min": 7100,
+	"max": 7200,
+	"text": "Aficionados"
+},
+{
+	"min": 7100,
+	"max": 7200,
+	"text": "Aficionados"
+},
+{
+	"min": 7200,
+	"max": 7300,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 7200,
+	"max": 7300,
+	"text": "Aficionados"
+},
+{
+	"min": 7200,
+	"max": 7300,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 7300,
+	"max": 7400,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 7300,
+	"max": 7400,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 7400,
+	"max": 7450,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 7400,
+	"max": 7450,
+	"text": "FIJO? MoVIL salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 7400,
+	"max": 7450,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 7400,
+	"max": 7450,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 7450,
+	"max": 8100,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 7450,
+	"max": 8100,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 8100,
+	"max": 8195,
+	"text": "FIJO? movil MARiTIMO"
+},
+{
+	"min": 8100,
+	"max": 8195,
+	"text": "FIJO?MoVIL MARiTIMO"
+},
+{
+	"min": 8195,
+	"max": 8815,
+	"text": "MoVIL MARiTIMO"
+},
+{
+	"min": 8195,
+	"max": 8815,
+	"text": "MoVIL MARiTIMO"
+},
+{
+	"min": 8815,
+	"max": 8965,
+	"text": "MoVIL AERONaUTICO R"
+},
+{
+	"min": 8815,
+	"max": 8965,
+	"text": "MoVIL AERONaUTICO R"
+},
+{
+	"min": 8965,
+	"max": 9040,
+	"text": "MoVIL AERONaUTICO OR"
+},
+{
+	"min": 9040,
+	"max": 9305,
+	"text": "FIJO"
+},
+{
+	"min": 9040,
+	"max": 9305,
+	"text": "FIJO"
+},
+{
+	"min": 9400,
+	"max": 9500,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 9400,
+	"max": 9500,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 9500,
+	"max": 9900,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 9500,
+	"max": 9900,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 9900,
+	"max": 9995,
+	"text": "FIJO"
+},
+{
+	"min": 9900,
+	"max": 9995,
+	"text": "FIJO"
+},
+{
+	"min": 9995,
+	"max": 10003,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS 10000 kHz"
+},
+{
+	"min": 9995,
+	"max": 10003,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS 10000 kHz"
+},
+{
+	"min": 10003,
+	"max": 10005,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS?Investigacion espacial"
+},
+{
+	"min": 10005,
+	"max": 10100,
+	"text": "MoVIL AERoNaUTICO R"
+},
+{
+	"min": 10100,
+	"max": 10150,
+	"text": "FIJO?Aficionados"
+},
+{
+	"min": 10150,
+	"max": 11175,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 11175,
+	"max": 11275,
+	"text": "MoVIL AERONaUTICO OR"
+},
+{
+	"min": 11400,
+	"max": 11600,
+	"text": "FIJO"
+},
+{
+	"min": 11600,
+	"max": 11650,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 11650,
+	"max": 12050,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 12050,
+	"max": 12100,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 12100,
+	"max": 12230,
+	"text": "FIJO"
+},
+{
+	"min": 12230,
+	"max": 13200,
+	"text": "MoVIL MARiTIMO"
+},
+{
+	"min": 13200,
+	"max": 13260,
+	"text": "MoVIL AERoNaUTICO OR"
+},
+{
+	"min": 13260,
+	"max": 13360,
+	"text": "MoVIL AERONaUTICO R"
+},
+{
+	"min": 13260,
+	"max": 13360,
+	"text": "MoVIL AERONaUTICO R"
+},
+{
+	"min": 13360,
+	"max": 13410,
+	"text": "FIJO?FIJO?RADIOASTRONOMiA"
+},
+{
+	"min": 13360,
+	"max": 13410,
+	"text": "FIJO?RADIOASTRONOMiA"
+},
+{
+	"min": 13410,
+	"max": 13450,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 13410,
+	"max": 13450,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 13570,
+	"max": 13600,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 13570,
+	"max": 13600,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 13600,
+	"max": 13800,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 13600,
+	"max": 13800,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 13800,
+	"max": 13870,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 13800,
+	"max": 13870,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 13870,
+	"max": 14000,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 13870,
+	"max": 14000,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 14000,
+	"max": 14250,
+	"text": "Aficionados?AFICIONADOS POR SATeLITE"
+},
+{
+	"min": 14000,
+	"max": 14250,
+	"text": "Aficionados?AFICIONADOS POR SATeLITE"
+},
+{
+	"min": 14250,
+	"max": 14350,
+	"text": "Aficionados"
+},
+{
+	"min": 14250,
+	"max": 14350,
+	"text": "Aficionados"
+},
+{
+	"min": 14350,
+	"max": 14990,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 14350,
+	"max": 14990,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 14990,
+	"max": 15005,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS 15000 kHz"
+},
+{
+	"min": 14990,
+	"max": 15005,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS 15000 kHz"
+},
+{
+	"min": 15005,
+	"max": 15010,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS?Investigacion espacial"
+},
+{
+	"min": 15005,
+	"max": 15010,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS?Investigacion espacial"
+},
+{
+	"min": 15010,
+	"max": 15100,
+	"text": "MoVIL AERONaUTICO OR"
+},
+{
+	"min": 15010,
+	"max": 15100,
+	"text": "MoVIL AERONaUTICO OR"
+},
+{
+	"min": 15100,
+	"max": 15600,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 15100,
+	"max": 15600,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 15600,
+	"max": 15800,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 15800,
+	"max": 16100,
+	"text": "FIJO"
+},
+{
+	"min": 16360,
+	"max": 17410,
+	"text": "MoVIL MARiTIMO"
+},
+{
+	"min": 17410,
+	"max": 17480,
+	"text": "FIJO"
+},
+{
+	"min": 17480,
+	"max": 17550,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 17900,
+	"max": 17970,
+	"text": "MoVIL AERONaUTICO R"
+},
+{
+	"min": 17900,
+	"max": 17970,
+	"text": "MoVIL AERONaUTICO R"
+},
+{
+	"min": 17970,
+	"max": 18030,
+	"text": "MoVIL AERONaUTICO OR"
+},
+{
+	"min": 18030,
+	"max": 18052,
+	"text": "FIJO"
+},
+{
+	"min": 18052,
+	"max": 18068,
+	"text": "FIJO?Investigacion espacial"
+},
+{
+	"min": 18068,
+	"max": 18168,
+	"text": "Aficionados?AFICIONADOS POR SATeLITE"
+},
+{
+	"min": 18068,
+	"max": 18168,
+	"text": "Aficionados?AFICIONADOS POR SATeLITE"
+},
+{
+	"min": 18168,
+	"max": 18780,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 18168,
+	"max": 18780,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 18780,
+	"max": 18900,
+	"text": "MoVIL MARiTIMO"
+},
+{
+	"min": 18780,
+	"max": 18900,
+	"text": "MoVIL MARiTIMO"
+},
+{
+	"min": 18900,
+	"max": 19020,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 19020,
+	"max": 19680,
+	"text": "FIJO"
+},
+{
+	"min": 19020,
+	"max": 19680,
+	"text": "FIJO"
+},
+{
+	"min": 19680,
+	"max": 19800,
+	"text": "MoVIL MARiTIMO"
+},
+{
+	"min": 19680,
+	"max": 19800,
+	"text": "MoVIL MARiTIMO"
+},
+{
+	"min": 19800,
+	"max": 19990,
+	"text": "FIJO"
+},
+{
+	"min": 19990,
+	"max": 19995,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS?Investigacion espacial"
+},
+{
+	"min": 19995,
+	"max": 20010,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS 20000 kHz"
+},
+{
+	"min": 20010,
+	"max": 21000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 20010,
+	"max": 21000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 21000,
+	"max": 21450,
+	"text": "Aficionados?AFICIONADOS POR SATeLITE"
+},
+{
+	"min": 21450,
+	"max": 21850,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 21850,
+	"max": 21870,
+	"text": "FIJO"
+},
+{
+	"min": 21870,
+	"max": 21924,
+	"text": "FIJO"
+},
+{
+	"min": 21870,
+	"max": 21924,
+	"text": "FIJO"
+},
+{
+	"min": 21924,
+	"max": 22000,
+	"text": "MoVIL AERONaUTICO R"
+},
+{
+	"min": 22000,
+	"max": 22855,
+	"text": "MoVIL MARiTIMO"
+},
+{
+	"min": 22855,
+	"max": 23000,
+	"text": "FIJO"
+},
+{
+	"min": 22855,
+	"max": 23000,
+	"text": "FIJO"
+},
+{
+	"min": 23000,
+	"max": 23200,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 23000,
+	"max": 23200,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 23200,
+	"max": 23350,
+	"text": "FIJO?MoVIL AERONaUTICO OR"
+},
+{
+	"min": 23350,
+	"max": 24000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 24000,
+	"max": 24450,
+	"text": "FIJO?MoVIL TERRESTRE"
+},
+{
+	"min": 24000,
+	"max": 24450,
+	"text": "FIJO?MoVIL TERRESTRE"
+},
+{
+	"min": 24450,
+	"max": 24600,
+	"text": "FIJO?MoVIL TERRESTRE?RADIOLOCALIZACIoN"
+},
+{
+	"min": 24450,
+	"max": 24650,
+	"text": "FIJO?MoVIL TERRESTRE?RADIOLOCALIZACIoN"
+},
+{
+	"min": 24450,
+	"max": 24600,
+	"text": "FIJO?MoVIL TERRESTRE?RADIOLOCALIZACIoN"
+},
+{
+	"min": 24600,
+	"max": 24890,
+	"text": "FIJO?MoVIL TERRESTRE"
+},
+{
+	"min": 24600,
+	"max": 24890,
+	"text": "FIJO?MoVIL TERRESTRE"
+},
+{
+	"min": 24650,
+	"max": 24890,
+	"text": "FIJO?MoVIL TERRESTRE"
+},
+{
+	"min": 24890,
+	"max": 24990,
+	"text": "Aficionados?AFICIONADOS POR SATeLITE"
+},
+{
+	"min": 24990,
+	"max": 25005,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS 25000 kHz"
+},
+{
+	"min": 25005,
+	"max": 25010,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS?Investigacion espacial"
+},
+{
+	"min": 25005,
+	"max": 25010,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS?Investigacion espacial"
+},
+{
+	"min": 25010,
+	"max": 25070,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 25010,
+	"max": 25070,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 25070,
+	"max": 25210,
+	"text": "MoVIL MARiTIMO"
+},
+{
+	"min": 25070,
+	"max": 25210,
+	"text": "MoVIL MARiTIMO"
+},
+{
+	"min": 25210,
+	"max": 25550,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 25210,
+	"max": 25550,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 25550,
+	"max": 25670,
+	"text": "RADIOASTRONOMiA"
+},
+{
+	"min": 25670,
+	"max": 26100,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 26100,
+	"max": 26175,
+	"text": "MoVIL MARiTIMO"
+},
+{
+	"min": 26175,
+	"max": 26200,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 26200,
+	"max": 26350,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 26200,
+	"max": 26350,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 26350,
+	"max": 27500,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 26350,
+	"max": 27500,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 27500,
+	"max": 28000,
+	"text": "AYUDAS A LA METEOROLOGiA?FIJO?MoVIL"
+},
+{
+	"min": 28000,
+	"max": 29700,
+	"text": "Aficionados?AFICIONADOS POR SATeLITE"
+},
+{
+	"min": 29700,
+	"max": 30005,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 30005,
+	"max": 30010,
+	"text": "OPERACIONES ESPACIALES identificacion de satelites?FIJO? MoVIL?Investigacion espacial"
+},
+{
+	"min": 30010,
+	"max": 37500,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 37500,
+	"max": 38250,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA"
+},
+{
+	"min": 38250,
+	"max": 39000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 38250,
+	"max": 39986,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 38250,
+	"max": 39500,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 38250,
+	"max": 39000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 39000,
+	"max": 39500,
+	"text": "FIJO? MoVIL?RADIOLOCALIZACIoN"
+},
+{
+	"min": 39000,
+	"max": 39500,
+	"text": "FIJO? MoVIL?RADIOLOCALIZACIoN"
+},
+{
+	"min": 39500,
+	"max": 39986,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 39500,
+	"max": 39986,
+	"text": "FIJO? MoVIL?RADIOLOCALIZACIoN"
+},
+{
+	"min": 39500,
+	"max": 39986,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 39986,
+	"max": 40000,
+	"text": "FIJO? MoVIL?RADIOLOCALIZACIoN?Investigacion espacial"
+},
+{
+	"min": 39986,
+	"max": 40020,
+	"text": "FIJO? MoVIL?Investigacion espacial"
+},
+{
+	"min": 40020,
+	"max": 40980,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 40980,
+	"max": 41015,
+	"text": "FIJO? MoVIL?Investigacion espacial"
+},
+{
+	"min": 40980,
+	"max": 41015,
+	"text": "FIJO? MoVIL?Investigacion espacial"
+},
+{
+	"min": 41015,
+	"max": 42000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 41015,
+	"max": 42000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 42500,
+	"max": 44000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 42500,
+	"max": 44000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 68000,
+	"max": 74800,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 68000,
+	"max": 74800,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 70150,
+	"max": 70250,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?Aficionados"
+},
+{
+	"min": 73000,
+	"max": 74600,
+	"text": "RADIOASTRONOMiA"
+},
+{
+	"min": 74600,
+	"max": 74800,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 74800,
+	"max": 75200,
+	"text": "RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 74800,
+	"max": 75200,
+	"text": "RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 75200,
+	"max": 87500,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 75200,
+	"max": 75400,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 75200,
+	"max": 87500,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 75400,
+	"max": 76000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 75400,
+	"max": 87000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 87000,
+	"max": 100000,
+	"text": "FIJO?MoVIL?RADIODIFUSIoN"
+},
+{
+	"min": 87500,
+	"max": 100000,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 88000,
+	"max": 100000,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 87500,
+	"max": 108000,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 100000,
+	"max": 108000,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 108000,
+	"max": 117975,
+	"text": "RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 108000,
+	"max": 117975,
+	"text": "RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 117975,
+	"max": 137000,
+	"text": "MoVIL AERONaUTICO R"
+},
+{
+	"min": 137000,
+	"max": 137025,
+	"text": "OPERACIONES ESPACIALES espacio-Tierra?METEOROLOGiA POR SATeLITE espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra?INVESTIGACIoN ESPACIAL espacio-Tierra?FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 137000,
+	"max": 137025,
+	"text": "OPERACIONES ESPACIALES espacio-Tierra?METEOROLOGiA POR SATeLITE espacio-Tierra?INVESTIGACIoN ESPACIAL espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra?FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 137025,
+	"max": 137175,
+	"text": "OPERACIONES ESPACIALES espacio-Tierra?METEOROLOGiA POR SATeLITE espacio-Tierra?INVESTIGACIoN ESPACIAL espacio-Tierra?FIJO?MoVIL, salvo MoVIL AERONaUTICO R?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 137025,
+	"max": 137175,
+	"text": "OPERACIONES ESPACIALES espacio-Tierra?METEOROLOGiA POR SATeLITE espacio-Tierra?INVESTIGACIoN ESPACIAL espacio-Tierra?FIJO?MoVIL, salvo MoVIL AERONaUTICO R?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 137175,
+	"max": 137825,
+	"text": "OPERACIONES ESPACIALES espacio-Tierra?METEOROLOGiA POR SATeLITE espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra?INVESTIGACIoN ESPACIAL espacio-Tierra?FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 137175,
+	"max": 137825,
+	"text": "OPERACIONES ESPACIALES espacio-Tierra?METEOROLOGiA POR SATeLITE espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra?INVESTIGACIoN ESPACIAL espacio-Tierra?FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 137825,
+	"max": 138000,
+	"text": "OPERACIONES ESPACIALES espacio-Tierra?METEOROLOGiA POR SATeLITE espacio-Tierra?INVESTIGACIoN ESPACIAL espacio-Tierra?FIJO?MoVIL, salvo MoVIL AERONaUTICO R?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 137825,
+	"max": 138000,
+	"text": "OPERACIONES ESPACIALES espacio-Tierra?METEOROLOGiA POR SATeLITE espacio-Tierra?INVESTIGACIoN ESPACIAL espacio-Tierra?FIJO?MoVIL, salvo MoVIL AERONaUTICO R?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 138000,
+	"max": 143600,
+	"text": "MoVIL AERONaUTICO OR"
+},
+{
+	"min": 138000,
+	"max": 143600,
+	"text": "FIJO? MoVIL?RADIOLOCALIZACIoN?INVESTIGACIoN ESPACIAL espacio-Tierra"
+},
+{
+	"min": 138000,
+	"max": 143600,
+	"text": "FIJO? MoVIL?INVESTIGACIoN ESPACIAL espacio-Tierra"
+},
+{
+	"min": 138000,
+	"max": 143600,
+	"text": "MoVIL AERONaUTICO OR?MoVIL TERRESTRE?MoVIL MARiTIMO"
+},
+{
+	"min": 143600,
+	"max": 143650,
+	"text": "MoVIL AERONaUTICO OR?INVESTIGACIoN ESPACIAL espacio-Tierra"
+},
+{
+	"min": 143600,
+	"max": 143650,
+	"text": "FIJO? MoVIL?INVESTIGACIoN ESPACIAL espacio-Tierra?RADIOLOCALIZACIoN"
+},
+{
+	"min": 143600,
+	"max": 143650,
+	"text": "FIJO? MoVIL?INVESTIGACIoN ESPACIAL espacio-Tierra"
+},
+{
+	"min": 143600,
+	"max": 143650,
+	"text": "MoVIL AERONaUTICO OR?INVESTIGACIoN ESPACIAL espacio-Tierra?MoVIL TERRESTRE?MoVIL MARiTIMO"
+},
+{
+	"min": 143650,
+	"max": 144000,
+	"text": "MoVIL AERONaUTICO OR"
+},
+{
+	"min": 143650,
+	"max": 144000,
+	"text": "FIJO? MoVIL?RADIOLOCALIZACIoN?INVESTIGACIoN ESPACIAL espacio-Tierra"
+},
+{
+	"min": 143650,
+	"max": 144000,
+	"text": "FIJO? MoVIL?INVESTIGACIoN ESPACIAL espacio-Tierra"
+},
+{
+	"min": 143650,
+	"max": 144000,
+	"text": "MoVIL AERONaUTICO OR?MoVIL TERRESTRE?MoVIL MARiTIMO"
+},
+{
+	"min": 144000,
+	"max": 146000,
+	"text": "Aficionados?AFICIONADOS POR SATeLITE"
+},
+{
+	"min": 146000,
+	"max": 148000,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 146000,
+	"max": 148000,
+	"text": "Aficionados"
+},
+{
+	"min": 146000,
+	"max": 148000,
+	"text": "Aficionados?FIJO?MoVIL"
+},
+{
+	"min": 146000,
+	"max": 148000,
+	"text": "MoVIL, salvo MoVIL AERONaUTICO R?FIJO"
+},
+{
+	"min": 148000,
+	"max": 149900,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 148000,
+	"max": 149900,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 148000,
+	"max": 149900,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 149900,
+	"max": 150050,
+	"text": "MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 149900,
+	"max": 150050,
+	"text": "MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 150050,
+	"max": 153000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOASTRONOMiA"
+},
+{
+	"min": 150050,
+	"max": 154000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 150050,
+	"max": 153000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOASTRONOMiA"
+},
+{
+	"min": 153000,
+	"max": 154000,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R?AYUDAS A LA METEOROLOGiA"
+},
+{
+	"min": 153000,
+	"max": 154000,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R?AYUDAS A LA METEOROLOGiA"
+},
+{
+	"min": 154000,
+	"max": 156487.5,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 154000,
+	"max": 156487.5,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 154000,
+	"max": 156487.5,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 154000,
+	"max": 156487.5,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 156487.5,
+	"max": 156562.5,
+	"text": "MoVIL MARiTIMO socorro y llamada por LLSD"
+},
+{
+	"min": 156487.5,
+	"max": 156562.5,
+	"text": "MoVIL MARiTIMO socorro y llamada por LLSD"
+},
+{
+	"min": 156562.5,
+	"max": 156762.5,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 156562.5,
+	"max": 156762.5,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 156562.5,
+	"max": 156762.5,
+	"text": "FIJO?MoVIL, salvo MoVIL AERONaUTICO R"
+},
+{
+	"min": 156762.5,
+	"max": 156787.5,
+	"text": "MoVIL MARiTIMO?Movil por satelite Tierra-espacio"
+},
+{
+	"min": 156762.5,
+	"max": 156787.5,
+	"text": "MoVIL MARiTIMO?Movil por satelite Tierra-espacio"
+},
+{
+	"min": 156762.5,
+	"max": 156787.5,
+	"text": "MoVIL MARiTIMO?Movil por satelite Tierra-espacio"
+},
+{
+	"min": 156762.5,
+	"max": 156787.5,
+	"text": "MoVIL MARiTIMO?Movil por satelite Tierra-espacio"
+},
+{
+	"min": 156787.5,
+	"max": 156812.5,
+	"text": "MoVIL MARiTIMO socorro y llamada"
+},
+{
+	"min": 156787.5,
+	"max": 156812.5,
+	"text": "MoVIL MARiTIMO socorro y llamada"
+},
+{
+	"min": 156812.5,
+	"max": 156837.5,
+	"text": "MoVIL MARiTIMO?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 156812.5,
+	"max": 156837.5,
+	"text": "MoVIL MARiTIMO?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 156812.5,
+	"max": 156837.5,
+	"text": "MoVIL MARiTIMO?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 156812.5,
+	"max": 156837.5,
+	"text": "MoVIL MARiTIMO?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 156837.5,
+	"max": 161937.5,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 156837.5,
+	"max": 161937.5,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 156837.5,
+	"max": 161937.5,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 161937.5,
+	"max": 161962.5,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?MoVIL maritimo por satelite Tierra espacio"
+},
+{
+	"min": 161937.5,
+	"max": 161962.5,
+	"text": "FIJO? MoVIL?MoVIL maritimo por satelite Tierra-espacio"
+},
+{
+	"min": 161937.5,
+	"max": 161962.5,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?MoVIL maritimo por satelite Tierra-espacio"
+},
+{
+	"min": 161962.5,
+	"max": 161987.5,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 161962.5,
+	"max": 161987.5,
+	"text": "MoVIL AERONaUTICO OR?MoVIL MARiTIMO?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 161962.5,
+	"max": 161987.5,
+	"text": "MoVIL MARiTIMO?MoVIL AERONaUTICO OR?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 161962.5,
+	"max": 161987.5,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 161987.5,
+	"max": 162012.5,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?Movil maritimo por satelite Tierra espacio"
+},
+{
+	"min": 161987.5,
+	"max": 162012.5,
+	"text": "FIJO? MoVIL?MoVIL maritimo por satelite Tierra-espacio"
+},
+{
+	"min": 161987.5,
+	"max": 162012.5,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 162012.5,
+	"max": 162037.5,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 162012.5,
+	"max": 162037.5,
+	"text": "MoVIL AERONaUTICO OR?MoVIL MARiTIMO?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 162012.5,
+	"max": 162037.5,
+	"text": "MoVIL MARiTIMO?MoVIL AERONaUTICO OR?Movil por satelite Tierra-espacio"
+},
+{
+	"min": 162012.5,
+	"max": 162037.5,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 162037.5,
+	"max": 174000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 156837.5,
+	"max": 174000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 162037.5,
+	"max": 174000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 174000,
+	"max": 223000,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 174000,
+	"max": 216000,
+	"text": "RADIODIFUSIoN?FIJO?MoVIL"
+},
+{
+	"min": 174000,
+	"max": 223000,
+	"text": "FIJO?MoVIL?RADIODIFUSIoN"
+},
+{
+	"min": 174000,
+	"max": 223000,
+	"text": "RADIODIFUSIoN?MoVIL TERRESTRE"
+},
+{
+	"min": 216000,
+	"max": 220000,
+	"text": "FIJO?MoVIL MARiTIMO?RADIOLOCALIZACIoN"
+},
+{
+	"min": 220000,
+	"max": 225000,
+	"text": "Aficionados?FIJO? MoVIL?RADIOLOCALIZACIoN"
+},
+{
+	"min": 223000,
+	"max": 230000,
+	"text": "RADIODIFUSIoN?FIJO?MoVIL"
+},
+{
+	"min": 223000,
+	"max": 230000,
+	"text": "FIJO?MoVIL?RADIODIFUSIoN?RADIONAVEGACIoN AERONaUTICA?RADIOLOCALIZACIoN"
+},
+{
+	"min": 223000,
+	"max": 230000,
+	"text": "RADIODIFUSIoN?MoVIL TERRESTRE"
+},
+{
+	"min": 225000,
+	"max": 235000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 230000,
+	"max": 235000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 230000,
+	"max": 235000,
+	"text": "FIJO? MoVIL?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 230000,
+	"max": 235000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 235000,
+	"max": 267000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 235000,
+	"max": 267000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 267000,
+	"max": 272000,
+	"text": "FIJO? MoVIL?OPERACIONES ESPACIALES espacio-Tierra"
+},
+{
+	"min": 267000,
+	"max": 272000,
+	"text": "FIJO? MoVIL?OPERACIONES ESPACIALES espacio-Tierra"
+},
+{
+	"min": 272000,
+	"max": 273000,
+	"text": "OPERACIONES ESPACIALES espacio-Tierra?FIJO?MoVIL"
+},
+{
+	"min": 272000,
+	"max": 273000,
+	"text": "OPERACIONES ESPACIALES espacio-Tierra?FIJO?MoVIL"
+},
+{
+	"min": 273000,
+	"max": 312000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 273000,
+	"max": 312000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 312000,
+	"max": 315000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 312000,
+	"max": 315000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 315000,
+	"max": 322000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 315000,
+	"max": 322000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 322000,
+	"max": 328600,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA"
+},
+{
+	"min": 322000,
+	"max": 328600,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA"
+},
+{
+	"min": 328600,
+	"max": 335400,
+	"text": "RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 328600,
+	"max": 335400,
+	"text": "RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 335400,
+	"max": 387000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 335400,
+	"max": 387000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 387000,
+	"max": 390000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 390000,
+	"max": 399900,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 390000,
+	"max": 399900,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 399900,
+	"max": 400050,
+	"text": "MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 399900,
+	"max": 400050,
+	"text": "MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 400050,
+	"max": 400150,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS POR SATeLITE 400,1 MHz"
+},
+{
+	"min": 400050,
+	"max": 400150,
+	"text": "FRECUENCIAS PATRoN Y SEniALES HORARIAS POR SATeLITE 400,1 MHz"
+},
+{
+	"min": 400150,
+	"max": 401000,
+	"text": "AYUDAS A LA METEOROLOGiA?METEOROLOGiA POR SATeLITE espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra?INVESTIGACIoN ESPACIAL espacio-Tierra?OPERACIONES ESPACIALES espacio-Tierra"
+},
+{
+	"min": 400150,
+	"max": 401000,
+	"text": "AYUDAS A LA METEOROLOGiA?METEOROLOGiA POR SATeLITE espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra?INVESTIGACIoN ESPACIAL espacio-Tierra?OPERACIONES ESPACIALES espacio-Tierra"
+},
+{
+	"min": 401000,
+	"max": 402000,
+	"text": "AYUDAS A LA METEOROLOGiA?OPERACIONES ESPACIALES espacio-Tierra?EXPLORACIoN DE LA TIERRA POR satelite Tierra-espacio?METEOROLOGiA POR SATeLITE Tierra-espacio?FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 403000,
+	"max": 406000,
+	"text": "AYUDAS A LA METEOROLOGiA?FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 403000,
+	"max": 406000,
+	"text": "AYUDAS A LA METEOROLOGiA?FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 406000,
+	"max": 406100,
+	"text": "MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 406000,
+	"max": 406100,
+	"text": "MoVIL POR SATeLITE Tierra espacio"
+},
+{
+	"min": 406100,
+	"max": 410000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOASTRONOMiA"
+},
+{
+	"min": 406100,
+	"max": 410000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOASTRONOMiA"
+},
+{
+	"min": 410000,
+	"max": 420000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?INVESTIGACIoN ESPACIAL espacio-espacio"
+},
+{
+	"min": 410000,
+	"max": 420000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?INVESTIGACIoN ESPACIAL espacio-espacio"
+},
+{
+	"min": 420000,
+	"max": 430000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 420000,
+	"max": 430000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 430000,
+	"max": 432000,
+	"text": "Aficionados? RadiolocalizaCIoN"
+},
+{
+	"min": 430000,
+	"max": 432000,
+	"text": "RADIOLOCALIZACIoN?Aficionados"
+},
+{
+	"min": 430000,
+	"max": 432000,
+	"text": "Aficionados?RADIOLOCALIZACIoN"
+},
+{
+	"min": 432000,
+	"max": 438000,
+	"text": "Aficionados? RadiolocalizaCIoN?Exploracion de la Tierra por satelite activo"
+},
+{
+	"min": 432000,
+	"max": 438000,
+	"text": "RADIOLOCALIZACIoN?Aficionados?Exploracion de la Tierra por satelite activo"
+},
+{
+	"min": 432000,
+	"max": 438000,
+	"text": "Aficionados?RADIOLOCALIZACIoN?Exploracion de la Tierra por satelite activo"
+},
+{
+	"min": 438000,
+	"max": 440000,
+	"text": "Aficionados? RadiolocalizaCIoN"
+},
+{
+	"min": 438000,
+	"max": 440000,
+	"text": "RADIOLOCALIZACIoN?Aficionados"
+},
+{
+	"min": 438000,
+	"max": 440000,
+	"text": "Aficionados?RADIOLOCALIZACIoN"
+},
+{
+	"min": 440000,
+	"max": 450000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 440000,
+	"max": 450000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 450000,
+	"max": 455000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 450000,
+	"max": 455000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 455000,
+	"max": 456000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 455000,
+	"max": 456000,
+	"text": "FIJO?MoVIL?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 455000,
+	"max": 456000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 455000,
+	"max": 456000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 456000,
+	"max": 459000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 456000,
+	"max": 459000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 459000,
+	"max": 460000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 459000,
+	"max": 460000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 459000,
+	"max": 460000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 459000,
+	"max": 460000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 460000,
+	"max": 470000,
+	"text": "FIJO? MoVIL?METEOROLOGiA POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 460000,
+	"max": 470000,
+	"text": "FIJO? MoVIL?METEOROLOGiA POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 470000,
+	"max": 694000,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 470000,
+	"max": 512000,
+	"text": "RADIODIFUSIoN?FIJO?MoVIL"
+},
+{
+	"min": 470000,
+	"max": 585000,
+	"text": "FIJO? MoVIL RADIODIFUSoN"
+},
+{
+	"min": 470000,
+	"max": 694000,
+	"text": "RADIODIFUSIoN?MoVIL TERRESTRE"
+},
+{
+	"min": 512000,
+	"max": 608000,
+	"text": "RADIODIFUSIoN"
+},
+{
+	"min": 585000,
+	"max": 610000,
+	"text": "FIJO?MoVIL?RADIODIFUSIoN?RADIONAVEGACIoN"
+},
+{
+	"min": 608000,
+	"max": 614000,
+	"text": "RADIOASTRONOMiA?Movil por satelite, salvo MoVIL AERONaUTICO por satelite Tierra-espacio"
+},
+{
+	"min": 610000,
+	"max": 890000,
+	"text": "FIJO?MoVIL?RADIODIFUSIoN"
+},
+{
+	"min": 614000,
+	"max": 698000,
+	"text": "RADIODIFUSIoN?FIJO?MoVIL"
+},
+{
+	"min": 694000,
+	"max": 790000,
+	"text": "movil salvo MoVIL AERONaUTICO?RADIODIFUSIoN"
+},
+{
+	"min": 694000,
+	"max": 790000,
+	"text": "RADIODIFUSIoN?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 698000,
+	"max": 806000,
+	"text": "movil?RADIODIFUSIoN?FIJO"
+},
+{
+	"min": 790000,
+	"max": 862000,
+	"text": "FIJO?movil salvo MoVIL AERONaUTICO?RADIODIFUSIoN"
+},
+{
+	"min": 790000,
+	"max": 862000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 806000,
+	"max": 890000,
+	"text": "FIJO?MoVIL?RADIODIFUSIoN"
+},
+{
+	"min": 862000,
+	"max": 890000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIODIFUSIoN"
+},
+{
+	"min": 862000,
+	"max": 890000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 890000,
+	"max": 942000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIODIFUSIoN?RADIOLOCALIZACIoN"
+},
+{
+	"min": 890000,
+	"max": 902000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 890000,
+	"max": 942000,
+	"text": "FIJO?MoVIL?RADIODIFUSIoN?RADIOLOCALIZACIoN"
+},
+{
+	"min": 890000,
+	"max": 942000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 902000,
+	"max": 928000,
+	"text": "FIJO?Aficionados?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 928000,
+	"max": 942000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 942000,
+	"max": 960000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIODIFUSIoN"
+},
+{
+	"min": 942000,
+	"max": 960000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 942000,
+	"max": 960000,
+	"text": "FIJO?MoVIL?RADIODIFUSIoN"
+},
+{
+	"min": 942000,
+	"max": 960000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 960000,
+	"max": 1164000,
+	"text": "MoVIL AERONAUTICO R?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 960000,
+	"max": 1164000,
+	"text": "MoVIL AERONAUTICO R?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 1164000,
+	"max": 1215000,
+	"text": "RADIONAVEGACIoN AERONaUTICA?RADIONAVEGACIoN POR SATeLITE espacio-Tierra espacio-espacio"
+},
+{
+	"min": 1164000,
+	"max": 1215000,
+	"text": "RADIONAVEGACIoN AERONaUTICA?RADIONAVEGACIoN POR SATeLITE espacio-Tierra espacio-espacio"
+},
+{
+	"min": 1215000,
+	"max": 1240000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?RADIONAVEGACIoN POR SATeLITE espacio-Tierra espacio-espacio?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 1215000,
+	"max": 1240000,
+	"text": "RADIOLOCALIZACIoN?RADIONAVEGACIoN POR SATeLITE espacio-Tierra espacio-espacio?Exploracion de la Tierra por satelite activo?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 1240000,
+	"max": 1300000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?RADIONAVEGACIoN POR SATeLITE espacio-Tierra espacio-espacio?INVESTIGACIoN ESPACIAL activo?Aficionados"
+},
+{
+	"min": 1240000,
+	"max": 1300000,
+	"text": "RADIOLOCALIZACIoN?RADIONAVEGACIoN POR SATeLITE espacio-Tierra espacio-espacio?Exploracion de la Tierra por satelite activo?INVESTIGACIoN ESPACIAL activo?Aficionados"
+},
+{
+	"min": 1300000,
+	"max": 1350000,
+	"text": "RADIOLOCALIZACIoN?RADIONAVEGACIoN AERONaUTICA?RADIONAVEGACIoN POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 1300000,
+	"max": 1350000,
+	"text": "RADIOLOCALIZACIoN?RADIONAVEGACIoN AERONaUTICA?RADIONAVEGACIoN POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 1350000,
+	"max": 1400000,
+	"text": "FIJO? MoVIL RadiolocalizaCIoN"
+},
+{
+	"min": 1350000,
+	"max": 1400000,
+	"text": "RADIOLOCALIZACIoN"
+},
+{
+	"min": 1350000,
+	"max": 1400000,
+	"text": "FIJO? movil?RADIOLOCALIZACIoN"
+},
+{
+	"min": 1400000,
+	"max": 1427000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 1400000,
+	"max": 1427000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 1427000,
+	"max": 1429000,
+	"text": "OPERACIONES ESPACIALES Tierra-espacio?FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1427000,
+	"max": 1429000,
+	"text": "OPERACIONES ESPACIALES Tierra-espacio?FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1429000,
+	"max": 1452000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1429000,
+	"max": 1452000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 1429000,
+	"max": 1452000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1452000,
+	"max": 1492000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIODIFUSIoN?RADIODIFUSIoN POR SATeLITE"
+},
+{
+	"min": 1452000,
+	"max": 1492000,
+	"text": "FIJO?MoVIL?RADIODIFUSIoN?RADIODIFUSIoN POR SATeLITE"
+},
+{
+	"min": 1452000,
+	"max": 1492000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIODIFUSIoN"
+},
+{
+	"min": 1492000,
+	"max": 1518000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1492000,
+	"max": 1518000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 1492000,
+	"max": 1518000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 1492000,
+	"max": 1518000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1518000,
+	"max": 1525000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico? MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 1518000,
+	"max": 1525000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 1518000,
+	"max": 1525000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 1518000,
+	"max": 1525000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 1525000,
+	"max": 1530000,
+	"text": "OPERACIONES ESPACIALES espacio-Tierra?FIJO? MoVIL POR SATeLITE espacio-Tierra?Exploracion de la Tierra por satelite?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1525000,
+	"max": 1530000,
+	"text": "OPERACIONES ESPACIALES espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra?Exploracion de la Tierra por satelite?FIJO?MoVIL"
+},
+{
+	"min": 1525000,
+	"max": 1530000,
+	"text": "OPERACIONES ESPACIALES espacio-Tierra?FIJO?MoVIL POR SATeLITE espacio-Tierra?Exploracion de la Tierra por satelite?MoVIL"
+},
+{
+	"min": 1525000,
+	"max": 1530000,
+	"text": "OPERACIONES ESPACIALES espacio-Tierra?FIJO?MoVIL POR SATeLITE espacio-Tierra?Exploracion de la Tierra por satelite?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1530000,
+	"max": 1535000,
+	"text": "OPERACIONES ESPACIALES espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra?Exploracion de la Tierra por satelite?FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1530000,
+	"max": 1535000,
+	"text": "OPERACIONES ESPACIALES espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra?Exploracion de la Tierra por satelite?FIJO?MoVIL"
+},
+{
+	"min": 1530000,
+	"max": 1535000,
+	"text": "OPERACIONES ESPACIALES espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra?Exploracion de la Tierra por satelite?FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1535000,
+	"max": 1559000,
+	"text": "MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 1535000,
+	"max": 1559000,
+	"text": "MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 1559000,
+	"max": 1610000,
+	"text": "RADIONAVEGACIoN AERONaUTICA?RADIONAVEGACIoN POR SATeLITE espacio-Tierra espacio-espacio"
+},
+{
+	"min": 1559000,
+	"max": 1610000,
+	"text": "RADIONAVEGACIoN AERONaUTICA?RADIONAVEGACIoN POR SATeLITE espacio-Tierra espacio-espacio"
+},
+{
+	"min": 1610000,
+	"max": 1610600,
+	"text": "MoVIL POR SATeLITE Tierra espacio?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 1610000,
+	"max": 1610600,
+	"text": "MoVIL POR SATeLITE Tierra-espacio?RADIONAVEGACIoN AERONaUTICA? RADIODETERMINACIoN POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 1610000,
+	"max": 1610600,
+	"text": "MoVIL POR SATeLITE Tierra-espacio?RADIONAVEGACIoN AERONaUTICA? Radiodeterminacion por satelite Tierra-espacio"
+},
+{
+	"min": 1610000,
+	"max": 1610600,
+	"text": "MoVIL POR SATeLITE Tierra-espacio?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 1610600,
+	"max": 1613800,
+	"text": "MoVIL POR SATeLITE Tierra espacio?RADIOASTRONOMiA?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 1610600,
+	"max": 1613800,
+	"text": "MoVIL POR SATeLITE Tierra-espacio?RADIOASTRONOMiA?RADIONAVEGACIoN AERONaUTICA? RADIODETERMINACIoN POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 1610600,
+	"max": 1613800,
+	"text": "MoVIL POR SATeLITE Tierra-espacio?RADIOASTRONOMiA?RADIONAVEGACIoN AERONaUTICA? Radiodeterminacion por satelite Tierra-espacio"
+},
+{
+	"min": 1610600,
+	"max": 1613800,
+	"text": "MoVIL POR SATeLITE Tierra-espacio?RADIOASTRONOMiA?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 1613800,
+	"max": 1626500,
+	"text": "MoVIL POR SATeLITE Tierra espacio?RADIONAVEGACIoN AERONaUTICA?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 1613800,
+	"max": 1626500,
+	"text": "MoVIL POR SATeLITE Tierra-espacio?RADIONAVEGACIoN AERONaUTICA? RADIODETERMINACIoN POR SATeLITE Tierra-espacio?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 1613800,
+	"max": 1626500,
+	"text": "MoVIL POR SATeLITE Tierra-espacio?RADIONAVEGACIoN AERONaUTICA?MoVIL POR SATeLITE espacio-Tierra? Radiodeterminacion por Satelite Tierra-espacio"
+},
+{
+	"min": 1613800,
+	"max": 1626500,
+	"text": "MoVIL POR SATeLITE Tierra-espacio?RADIONAVEGACIoN AERONaUTICA?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 1626500,
+	"max": 1660000,
+	"text": "MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 1626500,
+	"max": 1660000,
+	"text": "MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 1660000,
+	"max": 1660500,
+	"text": "MoVIL POR SATeLITE Tierra-espacio?RADIOASTRONOMiA"
+},
+{
+	"min": 1660000,
+	"max": 1660500,
+	"text": "MoVIL POR SATeLITE Tierra-espacio?RADIOASTRONOMiA"
+},
+{
+	"min": 1660500,
+	"max": 1668000,
+	"text": "RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo?FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1660500,
+	"max": 1668000,
+	"text": "RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo?FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1668000,
+	"max": 1668400,
+	"text": "MoVIL POR SATeLITE Tierra-espacio?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo?FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1668000,
+	"max": 1668400,
+	"text": "MoVIL POR SATeLITE Tierra-espacio?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo?FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1668400,
+	"max": 1670000,
+	"text": "AYUDAS A LA METEOROLOGiA?FIJO?MoVIL, salvo movil aeronautico?MoVIL POR SATeLITE Tierra-espacio?RADIOASTRONOMiA"
+},
+{
+	"min": 1668400,
+	"max": 1670000,
+	"text": "AYUDAS A LA METEOROLOGiA?FIJO?MoVIL, salvo movil aeronautico?MoVIL POR SATeLITE Tierra-espacio?RADIOASTRONOMiA"
+},
+{
+	"min": 1670000,
+	"max": 1675000,
+	"text": "AYUDAS A LA METEOROLOGiA?FIJO?METEOROLOGiA POR SATeLITE espacio-Tierra? MoVIL movil POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 1670000,
+	"max": 1675000,
+	"text": "AYUDAS A LA METEOROLOGiA?FIJO?METEOROLOGiA POR SATeLITE espacio-Tierra? MoVIL movil POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 1675000,
+	"max": 1690000,
+	"text": "AYUDAS A LA METEOROLOGiA?FIJO?METEOROLOGiA POR SATeLITE espacio-Tierra?movil, salvo movil aeronautico"
+},
+{
+	"min": 1675000,
+	"max": 1690000,
+	"text": "AYUDAS A LA METEOROLOGiA?FIJO?METEOROLOGiA POR SATeLITE espacio-Tierra?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1690000,
+	"max": 1700000,
+	"text": "AYUDAS A LA METEOROLOGiA?METEOROLOGiA POR SATeLITE espacio-Tierra?FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1690000,
+	"max": 1700000,
+	"text": "AYUDAS A LA METEOROLOGiA?METEOROLOGiA POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 1690000,
+	"max": 1700000,
+	"text": "AYUDAS A LA METEOROLOGiA?METEOROLOGiA POR SATeLITE espacio-Tierra?FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1700000,
+	"max": 1710000,
+	"text": "FIJO?METEOROLOGiA POR SATeLITE espacio-Tierra?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1700000,
+	"max": 1710000,
+	"text": "FIJO?METEOROLOGiA POR SATeLITE espacio-Tierra?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1700000,
+	"max": 1710000,
+	"text": "METEOROLOGiA POR SATeLITE espacio-Tierra?FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 1710000,
+	"max": 1930000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 1710000,
+	"max": 1930000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 1930000,
+	"max": 1970000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 1930000,
+	"max": 1970000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 1930000,
+	"max": 1970000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 1930000,
+	"max": 1970000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 1970000,
+	"max": 1980000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 1970000,
+	"max": 1980000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 1980000,
+	"max": 2010000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 1980000,
+	"max": 2010000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 2010000,
+	"max": 2025000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 2010000,
+	"max": 2025000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 2010000,
+	"max": 2025000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 2010000,
+	"max": 2025000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 2025000,
+	"max": 2110000,
+	"text": "OPERACIONES ESPACIALES Tierra-espacio espacio-espacio?EXPLORACIoN DE LA TIERRA POR SATeLITE Tierra-espacio espacio-espacio?FIJO? MoVIL?INVESTIGACIoN ESPACIAL Tierra-espacio espacio-espacio"
+},
+{
+	"min": 2025000,
+	"max": 2110000,
+	"text": "FIJO? MoVIL?OPERACIONES ESPACIALES Tierra-espacio espacio-espacio?EXPLORACIoN DE LA TIERRA POR SATeLITE Tierra-espacio espacio-espacio?INVESTIGACIoN ESPACIAL Tierra-espacio espacio-espacio"
+},
+{
+	"min": 2110000,
+	"max": 2120000,
+	"text": "FIJO? MoVIL?Investigacion espacial espacio-lejano Tierra-espacio"
+},
+{
+	"min": 2110000,
+	"max": 2120000,
+	"text": "FIJO? MoVIL?INVESTIGACIoN ESPACIAL espacio lejano Tierra-espacio"
+},
+{
+	"min": 2120000,
+	"max": 2160000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 2120000,
+	"max": 2160000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 2120000,
+	"max": 2160000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 2120000,
+	"max": 2160000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 2160000,
+	"max": 2170000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 2160000,
+	"max": 2170000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 2160000,
+	"max": 2170000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 2160000,
+	"max": 2170000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 2170000,
+	"max": 2200000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 2170000,
+	"max": 2200000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 2200000,
+	"max": 2290000,
+	"text": "OPERACIONES ESPACIALES espacio-Tierra espacio-espacio?EXPLORACIoN DE LA TIERRA POR SATeLITE espacio-Tierra espacio-espacio?FIJO? MoVIL?INVESTIGACIoN ESPACIAL espacio-Tierra espacio-espacio"
+},
+{
+	"min": 2200000,
+	"max": 2290000,
+	"text": "FIJO? MoVIL?OPERACIONES ESPACIALES espacio-Tierra espacio-espacio?EXPLORACIoN DE LA TIERRA POR SATeLITE espacio-Tierra espacio-espacio?INVESTIGACIoN ESPACIAL espacio-Tierra espacio-espacio"
+},
+{
+	"min": 2290000,
+	"max": 2300000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?INVESTIGACIoN ESPACIAL espacio lejano espacio-Tierra"
+},
+{
+	"min": 2290000,
+	"max": 2300000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?INVESTIGACIoN ESPACIAL espacio lejano espacio-Tierra"
+},
+{
+	"min": 2300000,
+	"max": 2450000,
+	"text": "FIJO? MoVIL?Aficionados?RADIOLOCALIZACIoN"
+},
+{
+	"min": 2300000,
+	"max": 2450000,
+	"text": "FIJO? MoVIL?RADIOLOCALIZACIoN?Aficionados"
+},
+{
+	"min": 2300000,
+	"max": 2450000,
+	"text": "FIJO? MoVIL?Aficionados?RADIOLOCALIZACIoN"
+},
+{
+	"min": 2450000,
+	"max": 2483500,
+	"text": "FIJO? MoVIL?RADIOLOCALIZACIoN"
+},
+{
+	"min": 2450000,
+	"max": 2483500,
+	"text": "FIJO? MoVIL?RADIOLOCALIZACIoN"
+},
+{
+	"min": 2450000,
+	"max": 2483500,
+	"text": "FIJO? MoVIL?RADIOLOCALIZACIoN"
+},
+{
+	"min": 2483500,
+	"max": 2500000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE espacio-Tierra? RADIODETERINACIoN - POR SATeLITE espacio-Tierra?RADIOLOCALIZACIoN"
+},
+{
+	"min": 2483500,
+	"max": 2500000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE espacio-Tierra?RADIOLOCALIZACIoN?RADIODETERMINACIoN POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 2483500,
+	"max": 2500000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE espacio-Tierra?RADIOLOCALIZACIoN? Radiodeterminacion por satelite espacio Tierra"
+},
+{
+	"min": 2483500,
+	"max": 2500000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE espacio-Tierra?RADIODETERMINACIoN POR SATeLITE espacio-Tierra?RADIOLOCALIZACIoN"
+},
+{
+	"min": 2500000,
+	"max": 2520000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 2500000,
+	"max": 2520000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 2500000,
+	"max": 2520000,
+	"text": "FIJO?FIJO POR satelite? MoVIL, salvo movil aeronautico?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 2500000,
+	"max": 2520000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 2520000,
+	"max": 2655000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIODIFUSIoN POR SATeLITE"
+},
+{
+	"min": 2520000,
+	"max": 2655000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?RADIODIFUSIoN POR SATeLITE"
+},
+{
+	"min": 2520000,
+	"max": 2535000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?RADIODIFUSIoN POR SATeLITE"
+},
+{
+	"min": 2520000,
+	"max": 2655000,
+	"text": "MoVIL, salvo movil aeronautico?FIJO"
+},
+{
+	"min": 2535000,
+	"max": 2655000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIODIFUSIoN POR SATeLITE"
+},
+{
+	"min": 2655000,
+	"max": 2670000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIODIFUSIoN POR SATeLITE?EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 2655000,
+	"max": 2670000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio espacio-Tierra?MoVIL, salvo movil aeronautico?RADIODIFUSIoN POR SATeLITE?EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 2655000,
+	"max": 2670000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL, salvo movil aeronautico?RADIODIFUSIoN POR SATeLITE?EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 2670000,
+	"max": 2690000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 2670000,
+	"max": 2690000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio espacio-Tierra?MoVIL, salvo movil aeronautico?EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 2670000,
+	"max": 2690000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL, salvo movil aeronautico?MoVIL POR SATeLITE Tierra-espacio?EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 2670000,
+	"max": 2690000,
+	"text": "MoVIL, salvo movil aeronautico?FIJO"
+},
+{
+	"min": 2690000,
+	"max": 2700000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 2690000,
+	"max": 2700000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 2700000,
+	"max": 2900000,
+	"text": "RADIONAVEGACIoN AERONaUTICA?RADIOLOCALIZACIoN"
+},
+{
+	"min": 2700000,
+	"max": 2900000,
+	"text": "RADIONAVEGACIoN AERONaUTICA?RADIOLOCALIZACIoN"
+},
+{
+	"min": 2900000,
+	"max": 3100000,
+	"text": "RADIOLOCALIZACIoN?RADIONAVEGACIoN"
+},
+{
+	"min": 2900000,
+	"max": 3100000,
+	"text": "RADIOLOCALIZACIoN?RADIONAVEGACIoN"
+},
+{
+	"min": 3100000,
+	"max": 3300000,
+	"text": "RADIOLOCALIZACIoN?Exploracion de la Tierra por satelite activo?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 3100000,
+	"max": 3300000,
+	"text": "RADIOLOCALIZACIoN?Exploracion de la Tierra por satelite activo?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 3300000,
+	"max": 3400000,
+	"text": "RADIOLOCALIZACIoN"
+},
+{
+	"min": 3300000,
+	"max": 3400000,
+	"text": "RADIOLOCALIZACIoN?Aficionados?FIJO?MoVIL"
+},
+{
+	"min": 3300000,
+	"max": 3400000,
+	"text": "RADIOLOCALIZACIoN?Aficionados"
+},
+{
+	"min": 3300000,
+	"max": 3400000,
+	"text": "RADIOLOCALIZACIoN"
+},
+{
+	"min": 3400000,
+	"max": 3600000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 3400000,
+	"max": 3500000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?Aficionados?RADIOLOCALIZACIoN"
+},
+{
+	"min": 3400000,
+	"max": 3500000,
+	"text": "FIJO?FIJO POR satelite?Aficionados? Movil?RADIOLOCALIZACIoN"
+},
+{
+	"min": 3400000,
+	"max": 3600000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 3500000,
+	"max": 3600000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 3500000,
+	"max": 3600000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 3600000,
+	"max": 4200000,
+	"text": "FIJO?FIJO POR satelite?MoVIL"
+},
+{
+	"min": 3600000,
+	"max": 3700000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 3600000,
+	"max": 3700000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 3600000,
+	"max": 4200000,
+	"text": "FIJO?FIJO POR satelite?MoVIL"
+},
+{
+	"min": 4200000,
+	"max": 4400000,
+	"text": "MoVIL AERONaUTICO R?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 4200000,
+	"max": 4400000,
+	"text": "MoVIL AERONaUTICO R?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 4400000,
+	"max": 4500000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 4400000,
+	"max": 4500000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 4500000,
+	"max": 4800000,
+	"text": "FIJO?FIJO POR satelite?MoVIL"
+},
+{
+	"min": 4500000,
+	"max": 4800000,
+	"text": "FIJO? MoVIL?FIJO POR SATeLITE? espacio Tierra"
+},
+{
+	"min": 4800000,
+	"max": 4990000,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA"
+},
+{
+	"min": 4800000,
+	"max": 4990000,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA"
+},
+{
+	"min": 4990000,
+	"max": 5000000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 4990000,
+	"max": 5000000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 5000000,
+	"max": 5010000,
+	"text": "MoVIL AERONaUTICO R POR SATeLITE?RADIONAVEGACIoN AERONaUTICA?RADIONAVEGACIoN POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 5000000,
+	"max": 5010000,
+	"text": "MoVIL AERONaUTICO R POR SATeLITE?RADIONAVEGACIoN AERONaUTICA?RADIONAVEGACIoN POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 5010000,
+	"max": 5030000,
+	"text": "MoVIL AERONaUTICO R POR SATeLITE?RADIONAVEGACIoN AERONaUTICA?RADIONAVEGACIoN POR SATeLITE Tierra-espacio espacio-espacio"
+},
+{
+	"min": 5030000,
+	"max": 5091000,
+	"text": "MoVIL AERONaUTICO R?MoVIL AERONaUTICO R POR SATeLITE?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 5030000,
+	"max": 5091000,
+	"text": "MoVIL AERONaUTICO R?MoVIL AERONaUTICO R POR SATeLITE?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 5091000,
+	"max": 5150000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?MoVIL AERONaUTICO?MoVIL AERONaUTICO R POR SATeLITE?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 5091000,
+	"max": 5150000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?MoVIL AERONaUTICO?MoVIL AERONaUTICO R POR SATeLITE?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 5150000,
+	"max": 5250000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?MoVIL, salvo movil aeronautico?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 5150000,
+	"max": 5250000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?movil, salvo movil aeronautico?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 5250000,
+	"max": 5255000,
+	"text": "Exploracion de la Tierra por satelite activo?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN?Investigacion espacial"
+},
+{
+	"min": 5250000,
+	"max": 5255000,
+	"text": "Exploracion de la Tierra por satelite activo?movil, salvo movil aeronautico?RADIOLOCALIZACIoN?Investigacion espacial"
+},
+{
+	"min": 5255000,
+	"max": 5350000,
+	"text": "Exploracion de la Tierra por satelite activo?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 5255000,
+	"max": 5350000,
+	"text": "Exploracion de la Tierra por satelite activo?movil, salvo movil aeronautico?RADIOLOCALIZACIoN?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 5350000,
+	"max": 5460000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?RADIONAVEGACIoN AERONaUTICA?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 5350000,
+	"max": 5460000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?RADIONAVEGACIoN AERONaUTICA?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 5460000,
+	"max": 5470000,
+	"text": "RADIONAVEGACIoN?Exploracion de la Tierra por satelite activo?INVESTIGACIoN ESPACIAL activo?RADIOLOCALIZACIoN"
+},
+{
+	"min": 5460000,
+	"max": 5470000,
+	"text": "RADIONAVEGACIoN?Exploracion de la Tierra por satelite activo?INVESTIGACIoN ESPACIAL activo?RADIOLOCALIZACIoN"
+},
+{
+	"min": 5570000,
+	"max": 5650000,
+	"text": "MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN?RADIONAVEGACIoN MARiTIMA"
+},
+{
+	"min": 5650000,
+	"max": 5725000,
+	"text": "MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN?Aficionados?Investigacion espacial espacio lejano"
+},
+{
+	"min": 5650000,
+	"max": 5725000,
+	"text": "MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN?Aficionados?Investigacion espacial espacio-lejano"
+},
+{
+	"min": 5725000,
+	"max": 5830000,
+	"text": "FIJO POR SATeLITE Tierra-espacio? RadiolocalizaCIoN?Aficionados"
+},
+{
+	"min": 5725000,
+	"max": 5830000,
+	"text": "RADIOLOCALIZACIoN?Aficionados"
+},
+{
+	"min": 5725000,
+	"max": 5830000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?RADIOLOCALIZACIoN?Aficionados"
+},
+{
+	"min": 5830000,
+	"max": 5850000,
+	"text": "FIJO POR SATeLITE Tierra-espacio? RadiolocalizaCIoN?Aficionados?Aficionados? por sate lite espacio-Tierra"
+},
+{
+	"min": 5830000,
+	"max": 5850000,
+	"text": "RADIOLOCALIZACIoN?Aficionados?Aficionados por satelite espacio-Tierra"
+},
+{
+	"min": 5830000,
+	"max": 5850000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?RADIOLOCALIZACIoN?Aficionados?Aficionados por satelite espacio-Tierra"
+},
+{
+	"min": 5850000,
+	"max": 5925000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 5850000,
+	"max": 5925000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?Aficionados?RADIOLOCALIZACIoN"
+},
+{
+	"min": 5850000,
+	"max": 5925000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?RADIOLOCALIZACIoN"
+},
+{
+	"min": 5850000,
+	"max": 5925000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 5925000,
+	"max": 6700000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 5925000,
+	"max": 6700000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 6700000,
+	"max": 7075000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio espacio-Tierra?MoVIL"
+},
+{
+	"min": 6700000,
+	"max": 7075000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio espacio-Tierra?MoVIL"
+},
+{
+	"min": 7075000,
+	"max": 7145000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 7075000,
+	"max": 7145000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 7145000,
+	"max": 7190000,
+	"text": "FIJO?MoVIL?INVESTIGACIoN ESPACIAL espacio lejano Tierra espacio"
+},
+{
+	"min": 7145000,
+	"max": 7190000,
+	"text": "FIJO?MoVIL?INVESTIGACIoN ESPACIAL espacio lejano Tierra-espacio"
+},
+{
+	"min": 7190000,
+	"max": 7235000,
+	"text": "Exploracion de la Tierra por satelite Tierra espacio?FIJO?MoVIL?INVESTIGACIoN ESPACIAL Tierra-espacio"
+},
+{
+	"min": 7190000,
+	"max": 7235000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE Tierra-espacio?FIJO?MoVIL?INVESTIGACIoN ESPACIAL Tierra-espacio"
+},
+{
+	"min": 7235000,
+	"max": 7250000,
+	"text": "Exploracion de la Tierra por satelite Tierra espacio?FIJO?MoVIL"
+},
+{
+	"min": 7235000,
+	"max": 7250000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE Tierra espacio?FIJO?MoVIL"
+},
+{
+	"min": 7250000,
+	"max": 7300000,
+	"text": "FIJO?FIJO POR satelite?MoVIL"
+},
+{
+	"min": 7250000,
+	"max": 7300000,
+	"text": "FIJO?FIJO POR satelite?MoVIL"
+},
+{
+	"min": 7300000,
+	"max": 7375000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 7300000,
+	"max": 7375000,
+	"text": "FIJO?FIJO POR SATeLITE? espacio Tierra?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 7375000,
+	"max": 7450000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?MoVIL MARiTIMO POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 7375000,
+	"max": 7450000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?MoVIL MARiTIMO POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 7450000,
+	"max": 7550000,
+	"text": "FIJO?FIJO POR satelite?METEOROLOGiA POR SATeLITE espacio-Tierra?MoVIL, salvo movil aeronautico?MoVIL MARiTIMO POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 7450000,
+	"max": 7550000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?MoVIL MARiTIMO POR SATeLITE espacio-Tierra?METEOROLOGiA POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 7550000,
+	"max": 7750000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?MoVIL MARiTIMO POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 7550000,
+	"max": 7750000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?MoVIL MARiTIMO POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 7750000,
+	"max": 7900000,
+	"text": "FIJO?METEOROLOGiA POR SATeLITE espacio-Tierra?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 7750000,
+	"max": 7900000,
+	"text": "FIJO?METEOROLOGiA POR SATeLITE espacio-Tierra?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 7900000,
+	"max": 8025000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 7900000,
+	"max": 8025000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 8025000,
+	"max": 8175000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE espacio-Tierra?FIJO?FIJO POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 8025000,
+	"max": 8175000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE espacio-Tierra?FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 8175000,
+	"max": 8215000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE espacio-Tierra?FIJO?FIJO POR SATeLITE Tierra-espacio?METEOROLOGiA POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 8175000,
+	"max": 8215000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE espacio-Tierra?FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?METEOROLOGiA POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 8215000,
+	"max": 8400000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE espacio-Tierra?FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 8215000,
+	"max": 8400000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE espacio-Tierra?FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 8400000,
+	"max": 8500000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?INVESTIGACIoN ESPACIAL espacio-Tierra"
+},
+{
+	"min": 8400000,
+	"max": 8500000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?INVESTIGACIoN ESPACIAL espacio-Tierra"
+},
+{
+	"min": 8500000,
+	"max": 8550000,
+	"text": "RADIOLOCALIZACIoN"
+},
+{
+	"min": 8500000,
+	"max": 8550000,
+	"text": "RADIOLOCALIZACIoN"
+},
+{
+	"min": 8550000,
+	"max": 8650000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 8550000,
+	"max": 8650000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 8650000,
+	"max": 8750000,
+	"text": "RADIOLOCALIZACIoN"
+},
+{
+	"min": 8650000,
+	"max": 8750000,
+	"text": "RADIOLOCALIZACIoN"
+},
+{
+	"min": 8750000,
+	"max": 8850000,
+	"text": "RADIOLOCALIZACIoN?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 8750000,
+	"max": 8850000,
+	"text": "RADIOLOCALIZACIoN?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 8850000,
+	"max": 9000000,
+	"text": "RADIOLOCALIZACIoN?RADIONAVEGACIoN MARiTIMA"
+},
+{
+	"min": 8850000,
+	"max": 9000000,
+	"text": "RADIOLOCALIZACIoN?RADIONAVEGACIoN MARiTIMA"
+},
+{
+	"min": 9000000,
+	"max": 9200000,
+	"text": "RADIOLOCALIZACIoN?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 9000000,
+	"max": 9200000,
+	"text": "RADIOLOCALIZACIoN?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 9200000,
+	"max": 9300000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?RADIONAVEGACIoN MARiTIMA"
+},
+{
+	"min": 9200000,
+	"max": 9300000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?RADIONAVEGACIoN MARiTIMA"
+},
+{
+	"min": 9300000,
+	"max": 9500000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?RADIONAVEGACIoN?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 9300000,
+	"max": 9500000,
+	"text": "EXPLORACIoN DE LA TIERRA POR satelite Activo?RADIOLOCALIZACIoN?RADIONAVEGACIoN?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 9500000,
+	"max": 9800000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?RADIONAVEGACIoN?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 9500000,
+	"max": 9800000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?RADIONAVEGACIoN?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 9800000,
+	"max": 9900000,
+	"text": "RADIOLOCALIZACIoN?Exploracion de la Tierra por satelite activo?FIJO?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 9800000,
+	"max": 9900000,
+	"text": "RADIOLOCALIZACIoN?Exploracion de la Tierra por satelite activo?FIJO?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 9900000,
+	"max": 10000000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?FIJO"
+},
+{
+	"min": 9900000,
+	"max": 10000000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?FIJO"
+},
+{
+	"min": 10000000,
+	"max": 10400000,
+	"text": "Exploracion de la Tierra por satelite activo?FIJO? MoVIL RADIOLOCALIZACIoN?Aficionados"
+},
+{
+	"min": 10000000,
+	"max": 10400000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?Aficionados"
+},
+{
+	"min": 10000000,
+	"max": 10400000,
+	"text": "Exploracion de la Tierra por satelite activo?FIJO? MoVIL?RADIOLOCALIZACIoN?Aficionados"
+},
+{
+	"min": 10000000,
+	"max": 10400000,
+	"text": "Exploracion de la Tierra por satelite activo?FIJO? MoVIL?RADIOLOCALIZACIoN?Aficionados"
+},
+{
+	"min": 10450000,
+	"max": 10500000,
+	"text": "RADIOLOCALIZACIoN?Aficionados?AFICIONADOS POR SATeLITE"
+},
+{
+	"min": 10450000,
+	"max": 10500000,
+	"text": "RADIOLOCALIZACIoN?FIJO? MoVIL?Aficionados?AFICIONADOS POR SATeLITE"
+},
+{
+	"min": 10500000,
+	"max": 10550000,
+	"text": "FIJO? MoVIL?RADIOLOCALIZACIoN"
+},
+{
+	"min": 10500000,
+	"max": 10550000,
+	"text": "FIJO? MoVIL?RADIOLOCALIZACIoN"
+},
+{
+	"min": 10500000,
+	"max": 10550000,
+	"text": "FIJO? MoVIL?RADIOLOCALIZACIoN"
+},
+{
+	"min": 10550000,
+	"max": 10600000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 10550000,
+	"max": 10600000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOLOCALIZACIoN"
+},
+{
+	"min": 10600000,
+	"max": 10680000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO?MoVIL, salvo movil aeronautico?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo?RADIOLOCALIZACIoN"
+},
+{
+	"min": 10600000,
+	"max": 10680000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIOASTRONOMiA?EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?INVESTIGACIoN ESPACIAL pasivo?RADIOLOCALIZACIoN"
+},
+{
+	"min": 10680000,
+	"max": 10700000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 10680000,
+	"max": 10700000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 10700000,
+	"max": 10950000,
+	"text": "FIJO?FIJO POR satelite espacio-Tierra Tierra-espacio?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 10700000,
+	"max": 10950000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 10700000,
+	"max": 10950000,
+	"text": "FIJO?FIJO POR satelite espacio-Tierra Tierra-espacio?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 10950000,
+	"max": 11200000,
+	"text": "FIJO?FIJO POR satelite espacio-Tierra Tierra-espacio?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 10950000,
+	"max": 11200000,
+	"text": "FIJO?FIJO POR satelite espacio-Tierra Tierra-espacio?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 11200000,
+	"max": 11450000,
+	"text": "FIJO?FIJO POR satelite espacio-Tierra Tierra-espacio?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 11200000,
+	"max": 11450000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 11200000,
+	"max": 11450000,
+	"text": "FIJO?FIJO POR satelite espacio-Tierra Tierra-espacio?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 11450000,
+	"max": 11700000,
+	"text": "FIJO?FIJO POR satelite espacio-Tierra Tierra-espacio?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 11450000,
+	"max": 11700000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 11450000,
+	"max": 11700000,
+	"text": "FIJO?FIJO POR satelite espacio-Tierra Tierra-espacio?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 11700000,
+	"max": 12500000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIODIFUSIoN?RADIODIFUSIoN POR SATeLITE"
+},
+{
+	"min": 11700000,
+	"max": 12100000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 11700000,
+	"max": 12200000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIODIFUSIoN?RADIODIFUSIoN POR SATeLITE"
+},
+{
+	"min": 11700000,
+	"max": 12500000,
+	"text": "FIJO?RADIODIFUSIoN?RADIODIFUSIoN POR SATeLITE?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 12100000,
+	"max": 12200000,
+	"text": "FIJO POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 12200000,
+	"max": 12700000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?RADIODIFUSIoN?RADIODIFUSIoN POR SATeLITE"
+},
+{
+	"min": 12200000,
+	"max": 12500000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?RADIODIFUSIoN"
+},
+{
+	"min": 12500000,
+	"max": 12750000,
+	"text": "FIJO POR satelite espacio-Tierra Tierra-espacio"
+},
+{
+	"min": 12500000,
+	"max": 12750000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?RADIODIFUSIoN POR SATeLITE"
+},
+{
+	"min": 12500000,
+	"max": 12750000,
+	"text": "FIJO POR satelite espacio-Tierra Tierra-espacio"
+},
+{
+	"min": 12700000,
+	"max": 12750000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 12750000,
+	"max": 13250000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?INVESTIGACIoN ESPACIAL espacio lejano espacio-Tierra"
+},
+{
+	"min": 12750000,
+	"max": 13250000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?INVESTIGACIoN ESPACIAL espacio lejano espacio-Tierra"
+},
+{
+	"min": 13250000,
+	"max": 13400000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIONAVEGACIoN AERONaUTICA?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 13250000,
+	"max": 13400000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIONAVEGACIoN AERONaUTICA?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 13400000,
+	"max": 13650000,
+	"text": "Exploracion de la Tierra por satelite activo?FIJO POR satelite? RadiolocalizaCIoN?Investigacion espacial?FRECUENCIAS PATRoN Y SEniALES HORARIAS? por satelite Tierra espacio"
+},
+{
+	"min": 13400000,
+	"max": 13650000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?Investigacion espacial?Frecuencias patron y seniales horarias por satelite Tierra-espacio"
+},
+{
+	"min": 13400000,
+	"max": 13650000,
+	"text": "Exploracion de la Tierra por satelite activo?FIJO POR satelite?RADIOLOCALIZACIoN?Investigacion espacial?Frecuencias patron y seniales horarias por satelite Tierra-espacio"
+},
+{
+	"min": 13650000,
+	"max": 13750000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?Investigacion espacial?Frecuencias patron y seniales horarias por satelite Tierra-espacio"
+},
+{
+	"min": 13650000,
+	"max": 13750000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?Investigacion espacial?Frecuencias patron y seniales horarias por satelite Tierra-espacio"
+},
+{
+	"min": 13750000,
+	"max": 14000000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?RADIOLOCALIZACIoN?Exploracion de la Tierra por satelite?Frecuencias patron y seniales horarias por satelite Tierra-espacio?Investigacion espacial"
+},
+{
+	"min": 13750000,
+	"max": 14000000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?RADIOLOCALIZACIoN?Exploracion de la Tierra por satelite?Frecuencias patron y seniales horarias por satelite Tierra-espacio?Investigacion espacial"
+},
+{
+	"min": 14000000,
+	"max": 14250000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?RADIONAVEGACIoN?MoVIL POR SATeLITE Tierra-espacio?Investigacion espacial"
+},
+{
+	"min": 14000000,
+	"max": 14250000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?RADIONAVEGACIoN?MoVIL POR SATeLITE Tierra-espacio?Investigacion espacial"
+},
+{
+	"min": 14250000,
+	"max": 14300000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?RADIONAVEGACIoN?MoVIL POR SATeLITE Tierra-espacio?Investigacion espacial"
+},
+{
+	"min": 14250000,
+	"max": 14300000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?RADIONAVEGACIoN?MoVIL POR SATeLITE Tierra-espacio?Investigacion espacial"
+},
+{
+	"min": 14300000,
+	"max": 14400000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL, salvo movil aeronautico?MoVIL POR SATeLITE Tierra-espacio?Radionavegacion por satelite"
+},
+{
+	"min": 14300000,
+	"max": 14400000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?MoVIL POR SATeLITE Tierra-espacio?Radionavegacion por satelite"
+},
+{
+	"min": 14300000,
+	"max": 14400000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL, salvo movil aeronautico?MoVIL POR SATeLITE Tierra-espacio?Radionavegacion por satelite"
+},
+{
+	"min": 14300000,
+	"max": 14400000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL, salvo movil aeronautico?MoVIL POR SATeLITE Tierra-espacio?Radionavegacion por satelite"
+},
+{
+	"min": 14400000,
+	"max": 14470000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL, salvo movil aeronautico?MoVIL POR SATeLITE Tierra-espacio?INVESTIGACIoN ESPACIAL espacio-Tierra"
+},
+{
+	"min": 14400000,
+	"max": 14470000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL, salvo movil aeronautico?MoVIL POR SATeLITE Tierra-espacio?INVESTIGACIoN ESPACIAL espacio-Tierra"
+},
+{
+	"min": 14470000,
+	"max": 14500000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL, salvo movil aeronautico?MoVIL POR SATeLITE Tierra-espacio?RADIOASTRONOMiA"
+},
+{
+	"min": 14470000,
+	"max": 14500000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL, salvo movil aeronautico?MoVIL POR SATeLITE Tierra-espacio?RADIOASTRONOMiA"
+},
+{
+	"min": 14500000,
+	"max": 14750000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL?Investigacion espacial"
+},
+{
+	"min": 14500000,
+	"max": 14750000,
+	"text": "FIJO?FIJO POR SATeLITE?MoVIL?Investigacion espacial"
+},
+{
+	"min": 14750000,
+	"max": 14800000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL?Investigacion espacial"
+},
+{
+	"min": 14750000,
+	"max": 14800000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL?Investigacion espacial"
+},
+{
+	"min": 14750000,
+	"max": 14800000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?Investigacion espacial"
+},
+{
+	"min": 14800000,
+	"max": 15350000,
+	"text": "FIJO? MoVIL?Investigacion espacial"
+},
+{
+	"min": 14800000,
+	"max": 15350000,
+	"text": "FIJO? MoVIL?Investigacion espacial"
+},
+{
+	"min": 15350000,
+	"max": 15400000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 15350000,
+	"max": 15400000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 15400000,
+	"max": 15430000,
+	"text": "RADIOLOCALIZACIoN?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 15430000,
+	"max": 15630000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?RADIOLOCALIZACIoN?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 15430000,
+	"max": 15630000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?RADIOLOCALIZACIoN?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 15630000,
+	"max": 15700000,
+	"text": "RADIOLOCALIZACIoN?RADIONAVEGACIoN AERONaUTICA"
+},
+{
+	"min": 15700000,
+	"max": 16600000.000000002,
+	"text": "RADIOLOCALIZACIoN"
+},
+{
+	"min": 15700000,
+	"max": 16600000.000000002,
+	"text": "RADIOLOCALIZACIoN"
+},
+{
+	"min": 16600000.000000002,
+	"max": 17100000,
+	"text": "RADIOLOCALIZACIoN?INVESTIGACIoN ESPACIAL espacio lejano Tierra-espacio"
+},
+{
+	"min": 16600000.000000002,
+	"max": 17100000,
+	"text": "RADIOLOCALIZACIoN?INVESTIGACIoN ESPACIAL espacio lejano Tierra-espacio"
+},
+{
+	"min": 17100000,
+	"max": 17200000,
+	"text": "RADIOLOCALIZACIoN"
+},
+{
+	"min": 17100000,
+	"max": 17200000,
+	"text": "RADIOLOCALIZACIoN"
+},
+{
+	"min": 17200000,
+	"max": 17300000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 17200000,
+	"max": 17300000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 17300000,
+	"max": 17700000,
+	"text": "FIJO POR SATeLITE Tierra-espacio espacio-Tierra?RADIOLOCALIZACIoN"
+},
+{
+	"min": 17300000,
+	"max": 17700000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?RADIODIFUSIoN POR SATeLITE?RADIOLOCALIZACIoN"
+},
+{
+	"min": 17300000,
+	"max": 17700000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?RADIOLOCALIZACIoN"
+},
+{
+	"min": 17300000,
+	"max": 17700000,
+	"text": "FIJO POR SATeLITE Tierra-espacio espacio-Tierra?RADIOLOCALIZACIoN"
+},
+{
+	"min": 17700000,
+	"max": 18100000,
+	"text": "FIJO?FIJO POR satelite espacio-Tierra Tierra-espacio?MoVIL"
+},
+{
+	"min": 17700000,
+	"max": 17800000,
+	"text": "FIJO?FIJO POR satelite espacio-Tierra Tierra-espacio? RADIODUFISIoN POR SATeLITE?MoVIL"
+},
+{
+	"min": 17700000,
+	"max": 18100000,
+	"text": "FIJO?FIJO POR satelite espacio-Tierra Tierra-espacio?MoVIL"
+},
+{
+	"min": 17700000,
+	"max": 18100000,
+	"text": "FIJO?FIJO POR satelite espacio-Tierra Tierra-espacio?MoVIL"
+},
+{
+	"min": 17800000,
+	"max": 18100000,
+	"text": "FIJO?FIJO POR satelite espacio-Tierra Tierra-espacio?MoVIL"
+},
+{
+	"min": 18100000,
+	"max": 18400000,
+	"text": "FIJO?FIJO POR satelite espacio-Tierra Tierra-espacio?MoVIL"
+},
+{
+	"min": 18100000,
+	"max": 18400000,
+	"text": "FIJO?FIJO POR satelite espacio-Tierra Tierra-espacio?MoVIL"
+},
+{
+	"min": 18400000,
+	"max": 18600000,
+	"text": "FIJO?FIJO POR satelite?MoVIL"
+},
+{
+	"min": 18400000,
+	"max": 18600000,
+	"text": "FIJO?FIJO POR satelite?MoVIL"
+},
+{
+	"min": 18600000,
+	"max": 18800000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 18600000,
+	"max": 18800000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 18600000,
+	"max": 18800000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 18600000,
+	"max": 18800000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 18800000,
+	"max": 19300000,
+	"text": "FIJO?FIJO POR satelite?MoVIL"
+},
+{
+	"min": 18800000,
+	"max": 19300000,
+	"text": "FIJO?FIJO POR satelite?MoVIL"
+},
+{
+	"min": 19300000,
+	"max": 19700000,
+	"text": "FIJO?FIJO POR satelite espacio-Tierra Tierra-espacio?MoVIL"
+},
+{
+	"min": 19300000,
+	"max": 19700000,
+	"text": "FIJO?FIJO POR satelite espacio-Tierra Tierra-espacio?MoVIL"
+},
+{
+	"min": 19700000,
+	"max": 20100000,
+	"text": "FIJO POR satelite espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 19700000,
+	"max": 20100000,
+	"text": "FIJO POR satelite espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 19700000,
+	"max": 20100000,
+	"text": "FIJO POR satelite espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 19700000,
+	"max": 20100000,
+	"text": "FIJO POR satelite espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 20100000,
+	"max": 20200000,
+	"text": "FIJO POR satelite espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 20100000,
+	"max": 20200000,
+	"text": "FIJO POR satelite espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 20200000,
+	"max": 21200000,
+	"text": "FIJO POR satelite espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra?Frecuencias patron y seniales horarias por satelite espacio-Tierra"
+},
+{
+	"min": 20200000,
+	"max": 21200000,
+	"text": "FIJO POR satelite espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra?Frecuencias patron y seniales horarias por satelite espacio-Tierra"
+},
+{
+	"min": 21200000,
+	"max": 21400000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO? MoVIL?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 21200000,
+	"max": 21400000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO? MoVIL?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 21400000,
+	"max": 22000000,
+	"text": "FIJO?MoVIL?RADIODIFUSIoN POR SATeLITE"
+},
+{
+	"min": 21400000,
+	"max": 22000000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 21400000,
+	"max": 22000000,
+	"text": "FIJO?MoVIL?RADIODIFUSIoN POR SATeLITE"
+},
+{
+	"min": 21400000,
+	"max": 22000000,
+	"text": "FIJO?MoVIL?RADIODIFUSIoN POR SATeLITE"
+},
+{
+	"min": 22000000,
+	"max": 22210000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 22000000,
+	"max": 22210000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 22210000,
+	"max": 22500000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO?MoVIL, salvo movil aeronautico?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 22210000,
+	"max": 22500000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO?MoVIL, salvo movil aeronautico?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 22500000,
+	"max": 22550000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 22500000,
+	"max": 22550000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 22550000,
+	"max": 23150000,
+	"text": "FIJO?ENTRE SATeLITES? MoVIL?INVESTIGACIoN ESPACIAL Tierra-espacio"
+},
+{
+	"min": 22550000,
+	"max": 23150000,
+	"text": "FIJO?ENTRE SATeLITES? MoVIL?INVESTIGACIoN ESPACIAL Tierra-espacio"
+},
+{
+	"min": 23150000,
+	"max": 23550000,
+	"text": "FIJO?ENTRE SATeLITES?MoVIL"
+},
+{
+	"min": 23550000,
+	"max": 23600000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 23550000,
+	"max": 23600000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 23600000,
+	"max": 24000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 23600000,
+	"max": 24000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 24000000,
+	"max": 24050000,
+	"text": "Aficionados?AFICIONADOS POR SATeLITE"
+},
+{
+	"min": 24000000,
+	"max": 24050000,
+	"text": "Aficionados?AFICIONADOS POR SATeLITE"
+},
+{
+	"min": 24050000,
+	"max": 24250000,
+	"text": "RADIOLOCALIZACIoN?Aficionados?Exploracion de la Tierra por satelite activo"
+},
+{
+	"min": 24050000,
+	"max": 24250000,
+	"text": "RADIOLOCALIZACIoN?Aficionados?Exploracion de la Tierra por satelite activo"
+},
+{
+	"min": 24250000,
+	"max": 24450000,
+	"text": "FIJO"
+},
+{
+	"min": 24250000,
+	"max": 24450000,
+	"text": "RADIONAVEGACIoN"
+},
+{
+	"min": 24250000,
+	"max": 24450000,
+	"text": "RADIONAVEGACIoN?FIJO?MoVIL"
+},
+{
+	"min": 24250000,
+	"max": 24450000,
+	"text": "FIJO"
+},
+{
+	"min": 24450000,
+	"max": 24650000,
+	"text": "FIJO?ENTRE SATeLITES"
+},
+{
+	"min": 24450000,
+	"max": 24650000,
+	"text": "ENTRE SATeLITES?RADIONAVEGACIoN"
+},
+{
+	"min": 24450000,
+	"max": 24650000,
+	"text": "FIJO?ENTRE SATeLITES? MoVIL?RADIONAVEGACIoN"
+},
+{
+	"min": 24450000,
+	"max": 24650000,
+	"text": "FIJO?ENTRE SATeLITES"
+},
+{
+	"min": 24650000,
+	"max": 24750000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?ENTRE SATeLITES"
+},
+{
+	"min": 24650000,
+	"max": 24750000,
+	"text": "ENTRE SATeLITES?RADIOLOCALIZACIoN? POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 24650000,
+	"max": 24750000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?ENTRE SATeLITES?MoVIL"
+},
+{
+	"min": 24650000,
+	"max": 24750000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?ENTRE SATeLITES"
+},
+{
+	"min": 24750000,
+	"max": 25250000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 24750000,
+	"max": 25250000,
+	"text": "FIJO POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 24750000,
+	"max": 25250000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 24750000,
+	"max": 25250000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 25250000,
+	"max": 25500000,
+	"text": "FIJO?ENTRE SATeLITES? MoVIL?Frecuencias patron y seniales horarias por satelite Tierra-espacio"
+},
+{
+	"min": 25250000,
+	"max": 25500000,
+	"text": "FIJO?ENTRE SATeLITES? MoVIL?Frecuencias patron y seniales horarias por satelite Tierra-espacio"
+},
+{
+	"min": 25500000,
+	"max": 27000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE espacio-Tierra?FIJO?ENTRE SATeLITES? MoVIL?INVESTIGACIoN ESPACIAL espacio-Tierra?Frecuencias patron y seniales horarias por satelite Tierra-espacio"
+},
+{
+	"min": 25500000,
+	"max": 27000000,
+	"text": "FIJO?ENTRE SATeLITES? MoVIL?EXPLORACIoN DE LA TIERRA POR SATeLITE espacio-Tierra?INVESTIGACIoN ESPACIAL espacio-Tierra?Frecuencias patron y seniales horarias por satelite Tierra-espacio"
+},
+{
+	"min": 27000000,
+	"max": 27500000,
+	"text": "FIJO?ENTRE SATeLITES?MoVIL"
+},
+{
+	"min": 27000000,
+	"max": 27500000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?ENTRE SATeLITES?MoVIL"
+},
+{
+	"min": 27000000,
+	"max": 27500000,
+	"text": "FIJO?ENTRE SATeLITES?MoVIL"
+},
+{
+	"min": 27500000,
+	"max": 28500000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 27500000,
+	"max": 28500000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 28500000,
+	"max": 29100000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?EXPLORACIoN DE LA TIERRA POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 28500000,
+	"max": 29100000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?EXPLORACIoN DE LA TIERRA POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 29100000,
+	"max": 29500000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?EXPLORACIoN DE LA TIERRA POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 29100000,
+	"max": 29500000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?EXPLORACIoN DE LA TIERRA POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 29500000,
+	"max": 29900000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?EXPLORACIoN DE LA TIERRA POR SATeLITE Tierra-espacio?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 29500000,
+	"max": 29900000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?MoVIL POR SATeLITE Tierra-espacio?EXPLORACIoN DE LA TIERRA POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 29500000,
+	"max": 29900000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?EXPLORACIoN DE LA TIERRA POR SATeLITE Tierra-espacio?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 29500000,
+	"max": 29900000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?EXPLORACIoN DE LA TIERRA POR SATeLITE Tierra-espacio?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 29900000,
+	"max": 30000000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?MoVIL POR SATeLITE Tierra-espacio?EXPLORACIoN DE LA TIERRA POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 29900000,
+	"max": 30000000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?MoVIL POR SATeLITE Tierra-espacio?EXPLORACIoN DE LA TIERRA POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 30000000,
+	"max": 31000000,
+	"text": "FIJO POR SATeLITE Tierra-espacio?MoVIL POR SATeLITE Tierra-espacio?Frecuencias patron y seniales horarias por satelite espacio-Tierra"
+},
+{
+	"min": 31000000,
+	"max": 31300000,
+	"text": "FIJO? MoVIL?Frecuencias patron y seniales horarias por satelite espacio-Tierra?Investigacion espacial"
+},
+{
+	"min": 31300000,
+	"max": 31500000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 31300000,
+	"max": 31500000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 31500000,
+	"max": 31800000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo?FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 31500000,
+	"max": 31800000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 31500000,
+	"max": 31800000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo?FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 31500000,
+	"max": 31800000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo?FIJO?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 31800000,
+	"max": 32000000,
+	"text": "FIJO?RADIONAVEGACIoN?INVESTIGACIoN ESPACIAL espacio lejano espacio-Tierra"
+},
+{
+	"min": 31800000,
+	"max": 32000000,
+	"text": "FIJO?RADIONAVEGACIoN?INVESTIGACIoN ESPACIAL espacio lejano espacio-Tierra"
+},
+{
+	"min": 32000000,
+	"max": 32299999.999999996,
+	"text": "FIJO?RADIONAVEGACIoN?INVESTIGACIoN ESPACIAL espacio lejano espacio-Tierra"
+},
+{
+	"min": 32000000,
+	"max": 32299999.999999996,
+	"text": "FIJO?RADIONAVEGACIoN?INVESTIGACIoN ESPACIAL espacio lejano espacio-Tierra"
+},
+{
+	"min": 32299999.999999996,
+	"max": 33000000,
+	"text": "FIJO?ENTRE SATeLITES?RADIONAVEGACIoN"
+},
+{
+	"min": 32299999.999999996,
+	"max": 33000000,
+	"text": "FIJO?ENTRE SATeLITES?RADIONAVEGACIoN"
+},
+{
+	"min": 33000000,
+	"max": 33400000,
+	"text": "FIJO?RADIONAVEGACIoN"
+},
+{
+	"min": 33000000,
+	"max": 33400000,
+	"text": "FIJO?RADIONAVEGACIoN"
+},
+{
+	"min": 33400000,
+	"max": 34200000,
+	"text": "RADIOLOCALIZACIoN"
+},
+{
+	"min": 33400000,
+	"max": 34200000,
+	"text": "RADIOLOCALIZACIoN"
+},
+{
+	"min": 34200000,
+	"max": 34700000,
+	"text": "RADIOLOCALIZACIoN?INVESTIGACIoN ESPACIAL espacio lejano Tierra-espacio"
+},
+{
+	"min": 34200000,
+	"max": 34700000,
+	"text": "RADIOLOCALIZACIoN?INVESTIGACIoN ESPACIAL espacio lejano Tierra-espacio"
+},
+{
+	"min": 34700000,
+	"max": 35200000,
+	"text": "RADIOLOCALIZACIoN?Investigacion espacial"
+},
+{
+	"min": 34700000,
+	"max": 35200000,
+	"text": "RADIOLOCALIZACIoN?Investigacion espacial"
+},
+{
+	"min": 35200000,
+	"max": 35500000,
+	"text": "AYUDAS A LA METEOROLOGiA?RADIOLOCALIZACIoN"
+},
+{
+	"min": 35200000,
+	"max": 35500000,
+	"text": "AYUDAS A LA METEOROLOGiA?RADIOLOCALIZACIoN"
+},
+{
+	"min": 35500000,
+	"max": 36000000,
+	"text": "AYUDAS A LA METEOROLOGiA?Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 35500000,
+	"max": 36000000,
+	"text": "AYUDAS A LA METEOROLOGiA?Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?INVESTIGACIoN ESPACIAL activo"
+},
+{
+	"min": 36000000,
+	"max": 37000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO? MoVIL?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 37000000,
+	"max": 37500000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?INVESTIGACIoN ESPACIAL espacio-Tierra"
+},
+{
+	"min": 37000000,
+	"max": 37500000,
+	"text": "FIJO?MoVIL, salvo movil aeronautico?INVESTIGACIoN ESPACIAL espacio-Tierra"
+},
+{
+	"min": 37500000,
+	"max": 38000000,
+	"text": "FIJO?FIJO POR satelite?MoVIL, salvo movil aeronautico?INVESTIGACIoN ESPACIAL espacio-Tierra?EXPLORACIoN DE LA TIERRA POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 38000000,
+	"max": 39500000,
+	"text": "FIJO?FIJO POR satelite? MoVIL?EXPLORACIoN DE LA TIERRA POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 38000000,
+	"max": 39500000,
+	"text": "FIJO?FIJO POR satelite? MoVIL?EXPLORACIoN DE LA TIERRA POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 39500000,
+	"max": 40000000,
+	"text": "FIJO?FIJO POR satelite? MoVIL?MoVIL POR SATeLITE espacio-Tierra?EXPLORACIoN DE LA TIERRA POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 39500000,
+	"max": 40000000,
+	"text": "FIJO?FIJO POR satelite? MoVIL?MoVIL POR SATeLITE espacio-Tierra?EXPLORACIoN DE LA TIERRA POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 40000000,
+	"max": 40500000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE Tierra-espacio?FIJO?FIJO POR satelite? MoVIL?MoVIL POR SATeLITE espacio-Tierra?INVESTIGACIoN ESPACIAL Tierra-espacio?EXPLORACIoN DE LA TIERRA POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 40000000,
+	"max": 40500000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE Tierra-espacio?FIJO?FIJO POR satelite? MoVIL?MoVIL POR SATeLITE espacio-Tierra?INVESTIGACIoN ESPACIAL Tierra-espacio?EXPLORACIoN DE LA TIERRA POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 40500000,
+	"max": 41000000,
+	"text": "FIJO?FIJO POR satelite?RADIODIFUSIoN?RADIODIFUSIoN POR SATeLITE?MoVIL"
+},
+{
+	"min": 40500000,
+	"max": 41000000,
+	"text": "FIJO?FIJO POR satelite?RADIODIFUSIoN?RADIODIFUSIoN POR SATeLITE? Movil?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 40500000,
+	"max": 41000000,
+	"text": "FIJO?FIJO POR satelite?RADIODIFUSIoN?RADIODIFUSIoN POR SATeLITE?MoVIL"
+},
+{
+	"min": 40500000,
+	"max": 41000000,
+	"text": "FIJO?FIJO POR satelite?RADIODIFUSIoN?RADIODIFUSIoN POR SATeLITE?MoVIL"
+},
+{
+	"min": 41000000,
+	"max": 42500000,
+	"text": "FIJO?FIJO POR satelite?RADIODIFUSIoN?RADIODIFUSIoN POR SATeLITE?MoVIL"
+},
+{
+	"min": 41000000,
+	"max": 42500000,
+	"text": "FIJO?FIJO POR satelite?RADIODIFUSIoN?RADIODIFUSIoN POR SATeLITE?MoVIL"
+},
+{
+	"min": 42500000,
+	"max": 43500000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL, salvo movil aeronautico?RADIOASTRONOMiA"
+},
+{
+	"min": 42500000,
+	"max": 43500000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL, salvo movil aeronautico?RADIOASTRONOMiA"
+},
+{
+	"min": 43500000,
+	"max": 47000000,
+	"text": "MoVIL?MoVIL POR SATeLITE?RADIONAVEGACIoN?Radionavegacion por satelite"
+},
+{
+	"min": 43500000,
+	"max": 47000000,
+	"text": "MoVIL?MoVIL POR SATeLITE?RADIONAVEGACIoN?Radionavegacion por satelite"
+},
+{
+	"min": 47000000,
+	"max": 47200000,
+	"text": "Aficionados?AFICIONADOS POR SATeLITE"
+},
+{
+	"min": 47000000,
+	"max": 47200000,
+	"text": "Aficionados?AFICIONADOS POR SATeLITE"
+},
+{
+	"min": 47200000,
+	"max": 47500000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 47200000,
+	"max": 47500000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 47500000,
+	"max": 47900000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio espacio-Tierra?MoVIL"
+},
+{
+	"min": 47500000,
+	"max": 47900000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 47500000,
+	"max": 47900000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio espacio-Tierra?MoVIL"
+},
+{
+	"min": 47900000,
+	"max": 48200000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 47900000,
+	"max": 48200000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 48200000,
+	"max": 48540000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio espacio-Tierra?MoVIL"
+},
+{
+	"min": 48200000,
+	"max": 48540000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio espacio-Tierra?MoVIL"
+},
+{
+	"min": 48540000,
+	"max": 49440000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 48540000,
+	"max": 49440000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio?MoVIL"
+},
+{
+	"min": 49440000,
+	"max": 50200000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio espacio-Tierra?MoVIL"
+},
+{
+	"min": 49440000,
+	"max": 50200000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio espacio-Tierra?MoVIL"
+},
+{
+	"min": 50200000,
+	"max": 50400000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 50200000,
+	"max": 50400000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 50400000,
+	"max": 51400000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 50400000,
+	"max": 51400000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?MoVIL POR SATeLITE Tierra-espacio"
+},
+{
+	"min": 51400000,
+	"max": 52600000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 51400000,
+	"max": 52600000,
+	"text": "FIJO?MoVIL"
+},
+{
+	"min": 52600000,
+	"max": 54250000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 52600000,
+	"max": 54250000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 54250000,
+	"max": 55780000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?ENTRE SATeLITES?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 54250000,
+	"max": 55780000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?ENTRE SATeLITES?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 55780000,
+	"max": 56900000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO?ENTRE SATeLITES? MoVIL?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 55780000,
+	"max": 56900000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO?ENTRE SATeLITES? MoVIL?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 56900000,
+	"max": 57000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO?ENTRE SATeLITES? MoVIL?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 56900000,
+	"max": 57000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?INVESTIGACIoN ESPACIAL pasivo?FIJO?ENTRE SATeLITES?MoVIL"
+},
+{
+	"min": 57000000,
+	"max": 58200000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO?ENTRE SATeLITES? MoVIL?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 57000000,
+	"max": 58200000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO?ENTRE SATeLITES? MoVIL?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 58200000,
+	"max": 59000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO? MoVIL?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 58200000,
+	"max": 59000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO? MoVIL?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 59000000,
+	"max": 59300000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO?ENTRE SATeLITES? MoVIL?RADIOLOCALIZACIoN?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 59000000,
+	"max": 59300000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?ENTRE SATeLITES?FIJO? MoVIL?RADIOLOCALIZACIoN?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 59300000,
+	"max": 64000000,
+	"text": "FIJO?FIJO POR SATeLITE? MoVIL?RADIOLOCALIZACIoN"
+},
+{
+	"min": 59300000,
+	"max": 64000000,
+	"text": "FIJO?FIJO POR SATeLITE? MoVIL?RADIOLOCALIZACIoN"
+},
+{
+	"min": 64000000,
+	"max": 65000000,
+	"text": "FIJO?ENTRE SATeLITES?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 64000000,
+	"max": 65000000,
+	"text": "FIJO?ENTRE SATeLITES?MoVIL, salvo movil aeronautico"
+},
+{
+	"min": 65000000,
+	"max": 66000000,
+	"text": "Exploracion de la Tierra por satelite?FIJO?ENTRE SATeLITES?MoVIL, salvo movil aeronautico?Investigacion espacial"
+},
+{
+	"min": 65000000,
+	"max": 66000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?ENTRE SATeLITES?FIJO?MoVIL, salvo movil aeronautico?Investigacion espacial"
+},
+{
+	"min": 66000000,
+	"max": 71000000,
+	"text": "ENTRE SATeLITES? MoVIL?MoVIL POR SATeLITE?RADIONAVEGACIoN?Radionavegacion por satelite"
+},
+{
+	"min": 66000000,
+	"max": 71000000,
+	"text": "ENTRE SATeLITES? MoVIL?MoVIL POR SATeLITE?RADIONAVEGACIoN?Radionavegacion por satelite"
+},
+{
+	"min": 71000000,
+	"max": 74000000,
+	"text": "FIJO?FIJO POR satelite? MoVIL?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 71000000,
+	"max": 74000000,
+	"text": "FIJO?FIJO POR satelite? MoVIL?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 76000000,
+	"max": 77500000,
+	"text": "RADIOASTRONOMiA?RADIOLOCALIZACIoN?Aficionados?AFICIONADOS POR SATeLITE?INVESTIGACIoN ESPACIAL espacio-Tierra"
+},
+{
+	"min": 76000000,
+	"max": 77500000,
+	"text": "RADIOASTRONOMiA?RADIOLOCALIZACIoN?Aficionados?AFICIONADOS POR SATeLITE?INVESTIGACIoN ESPACIAL espacio-Tierra"
+},
+{
+	"min": 77500000,
+	"max": 78000000,
+	"text": "Aficionados?AFICIONADOS POR SATeLITE?RADIOLOCALIZACIoN?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL espacio-Tierra"
+},
+{
+	"min": 77500000,
+	"max": 78000000,
+	"text": "Aficionados?AFICIONADOS POR SATeLITE? RADIOLOCALIZACION?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL espacio-Tierra"
+},
+{
+	"min": 79000000,
+	"max": 81000000,
+	"text": "RADIOASTRONOMiA?RADIOLOCALIZACIoN?Aficionados?AFICIONADOS POR SATeLITE?INVESTIGACIoN ESPACIAL espacio-Tierra"
+},
+{
+	"min": 81000000,
+	"max": 84000000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?MoVIL POR SATeLITE Tierra-espacio?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL espacio-Tierra"
+},
+{
+	"min": 81000000,
+	"max": 84000000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?MoVIL POR SATeLITE Tierra-espacio?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL espacio-Tierra"
+},
+{
+	"min": 84000000,
+	"max": 86000000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?RADIOASTRONOMiA"
+},
+{
+	"min": 84000000,
+	"max": 86000000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?RADIOASTRONOMiA"
+},
+{
+	"min": 86000000,
+	"max": 92000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 86000000,
+	"max": 92000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 92000000,
+	"max": 94000000,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA?RADIOLOCALIZACIoN"
+},
+{
+	"min": 92000000,
+	"max": 94000000,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA?RADIOLOCALIZACIoN"
+},
+{
+	"min": 94000000,
+	"max": 94100000,
+	"text": "Exploracion de la Tierra por satelite activo?RADIOLOCALIZACIoN?INVESTIGACIoN ESPACIAL activo?RADIOASTRONOMiA"
+},
+{
+	"min": 94000000,
+	"max": 94100000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOLOCALIZACIoN?INVESTIGACIoN ESPACIAL activo?RADIOASTRONOMiA"
+},
+{
+	"min": 94100000,
+	"max": 95000000,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA?RADIOLOCALIZACIoN"
+},
+{
+	"min": 94100000,
+	"max": 95000000,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA?RADIOLOCALIZACIoN"
+},
+{
+	"min": 95000000,
+	"max": 100000000,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA?RADIOLOCALIZACIoN?RADIONAVEGACIoN?Radionavegacion por satelite"
+},
+{
+	"min": 95000000,
+	"max": 100000000,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA?RADIOLOCALIZACIoN?RADIONAVEGACIoN?Radionavegacion por satelite"
+},
+{
+	"min": 100000000,
+	"max": 102000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 100000000,
+	"max": 102000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 102000000,
+	"max": 105000000,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA"
+},
+{
+	"min": 102000000,
+	"max": 105000000,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA"
+},
+{
+	"min": 105000000,
+	"max": 109500000,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 105000000,
+	"max": 109500000,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 109500000,
+	"max": 111800000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 109500000,
+	"max": 111800000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 111800000,
+	"max": 114250000,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 111800000,
+	"max": 114250000,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 114250000,
+	"max": 116000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 114250000,
+	"max": 116000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 116000000,
+	"max": 119980000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?ENTRE SATeLITES?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 116000000,
+	"max": 119980000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?ENTRE SATeLITES?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 119980000,
+	"max": 122250000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?ENTRE SATeLITES?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 119980000,
+	"max": 122250000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?ENTRE SATeLITES?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 122250000,
+	"max": 123000000,
+	"text": "FIJO?ENTRE SATeLITES? MoVIL?Aficionados"
+},
+{
+	"min": 122250000,
+	"max": 123000000,
+	"text": "FIJO?ENTRE SATeLITES? MoVIL?Aficionados"
+},
+{
+	"min": 123000000,
+	"max": 130000000,
+	"text": "FIJO POR satelite espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra?RADIONAVEGACIoN?Radionavegacion por satelite?RADIOASTRONOMiA"
+},
+{
+	"min": 123000000,
+	"max": 130000000,
+	"text": "FIJO POR satelite espacio-Tierra?MoVIL POR SATeLITE espacio-Tierra?RADIONAVEGACIoN?Radionavegacion por satelite?RADIOASTRONOMiA"
+},
+{
+	"min": 130000000,
+	"max": 134000000,
+	"text": "Exploracion de la Tierra por satelite activo?FIJO?ENTRE SATeLITES? MoVIL?RADIOASTRONOMiA"
+},
+{
+	"min": 130000000,
+	"max": 134000000,
+	"text": "Exploracion de la Tierra por satelite activo?FIJO?ENTRE SATeLITES? MoVIL?RADIOASTRONOMiA"
+},
+{
+	"min": 134000000,
+	"max": 136000000,
+	"text": "Aficionados?AFICIONADOS POR SATeLITE?RADIOASTRONOMiA"
+},
+{
+	"min": 134000000,
+	"max": 136000000,
+	"text": "Aficionados?AFICIONADOS POR SATeLITE?RADIOASTRONOMiA"
+},
+{
+	"min": 136000000,
+	"max": 141000000,
+	"text": "RADIOASTRONOMiA?RADIOLOCALIZACIoN?Aficionados?AFICIONADOS POR SATeLITE"
+},
+{
+	"min": 136000000,
+	"max": 141000000,
+	"text": "RADIOASTRONOMiA?RADIOLOCALIZACIoN?Aficionados?AFICIONADOS POR SATeLITE"
+},
+{
+	"min": 141000000,
+	"max": 148500000,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA?RADIOLOCALIZACIoN"
+},
+{
+	"min": 141000000,
+	"max": 148500000,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA?RADIOLOCALIZACIoN"
+},
+{
+	"min": 148500000,
+	"max": 151500000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 148500000,
+	"max": 151500000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 151500000,
+	"max": 155500000,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA?RADIOLOCALIZACIoN"
+},
+{
+	"min": 151500000,
+	"max": 155500000,
+	"text": "FIJO? MoVIL?RADIOASTRONOMiA?RADIOLOCALIZACIoN"
+},
+{
+	"min": 155500000,
+	"max": 158500000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO? MoVIL?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 155500000,
+	"max": 158500000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO? MoVIL?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 158500000,
+	"max": 164000000,
+	"text": "FIJO?FIJO POR satelite? MoVIL?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 158500000,
+	"max": 164000000,
+	"text": "FIJO?FIJO POR satelite? MoVIL?MoVIL POR SATeLITE espacio-Tierra"
+},
+{
+	"min": 164000000,
+	"max": 167000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 164000000,
+	"max": 167000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 167000000,
+	"max": 174500000,
+	"text": "FIJO?FIJO POR satelite?ENTRE SATeLITES?MoVIL"
+},
+{
+	"min": 167000000,
+	"max": 174500000,
+	"text": "FIJO?FIJO POR satelite?ENTRE SATeLITES?MoVIL"
+},
+{
+	"min": 174500000,
+	"max": 174800000,
+	"text": "FIJO?ENTRE SATeLITES?MoVIL"
+},
+{
+	"min": 174500000,
+	"max": 174800000,
+	"text": "FIJO?ENTRE SATeLITES?MoVIL"
+},
+{
+	"min": 174800000,
+	"max": 182000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?ENTRE SATeLITES?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 174800000,
+	"max": 182000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?ENTRE SATeLITES?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 182000000,
+	"max": 185000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 182000000,
+	"max": 185000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 185000000,
+	"max": 190000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?ENTRE SATeLITES?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 185000000,
+	"max": 190000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?ENTRE SATeLITES?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 190000000,
+	"max": 191800000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 190000000,
+	"max": 191800000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 191800000,
+	"max": 200000000,
+	"text": "FIJO?ENTRE SATeLITES? MoVIL?MoVIL POR SATeLITE?RADIONAVEGACIoN?Radionavegacion por satelite"
+},
+{
+	"min": 191800000,
+	"max": 200000000,
+	"text": "FIJO?ENTRE SATeLITES? MoVIL?MoVIL POR SATeLITE?RADIONAVEGACIoN?Radionavegacion por satelite"
+},
+{
+	"min": 200000000,
+	"max": 209000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 200000000,
+	"max": 209000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 209000000,
+	"max": 217000000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?RADIOASTRONOMiA"
+},
+{
+	"min": 209000000,
+	"max": 217000000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?RADIOASTRONOMiA"
+},
+{
+	"min": 217000000,
+	"max": 226000000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 217000000,
+	"max": 226000000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 226000000,
+	"max": 231500000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 226000000,
+	"max": 231500000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 231500000,
+	"max": 232000000,
+	"text": "FIJO? MoVIL?RADIOLOCALIZACIoN"
+},
+{
+	"min": 232000000,
+	"max": 235000000,
+	"text": "FIJO?FIJO POR satelite? MoVIL?RADIOLOCALIZACIoN"
+},
+{
+	"min": 232000000,
+	"max": 235000000,
+	"text": "FIJO?FIJO POR satelite? MoVIL?RADIOLOCALIZACIoN"
+},
+{
+	"min": 235000000,
+	"max": 238000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO POR satelite?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 235000000,
+	"max": 238000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?FIJO POR satelite?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 238000000,
+	"max": 240000000,
+	"text": "FIJO?FIJO POR satelite? MoVIL?RADIONAVEGACIoN?RADIOLOCALIZACIoN?Radionavegacion por satelite"
+},
+{
+	"min": 238000000,
+	"max": 240000000,
+	"text": "FIJO?FIJO POR satelite? MoVIL?RADIONAVEGACIoN?RADIOLOCALIZACIoN?Radionavegacion por satelite"
+},
+{
+	"min": 240000000,
+	"max": 241000000,
+	"text": "FIJO? MoVIL?RADIOLOCALIZACIoN"
+},
+{
+	"min": 240000000,
+	"max": 241000000,
+	"text": "FIJO? MoVIL?RADIOLOCALIZACIoN"
+},
+{
+	"min": 241000000,
+	"max": 248000000,
+	"text": "RADIOASTRONOMiA?RADIOLOCALIZACIoN?Aficionados?AFICIONADOS POR SATeLITE"
+},
+{
+	"min": 241000000,
+	"max": 248000000,
+	"text": "RADIOASTRONOMiA?RADIOLOCALIZACIoN?Aficionados?AFICIONADOS POR SATeLITE"
+},
+{
+	"min": 248000000,
+	"max": 250000000,
+	"text": "Aficionados?AFICIONADOS POR SATeLITE?RADIOASTRONOMiA"
+},
+{
+	"min": 248000000,
+	"max": 250000000,
+	"text": "Aficionados?AFICIONADOS POR SATeLITE?RADIOASTRONOMiA"
+},
+{
+	"min": 250000000,
+	"max": 252000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 250000000,
+	"max": 252000000,
+	"text": "EXPLORACIoN DE LA TIERRA POR SATeLITE pasivo?RADIOASTRONOMiA?INVESTIGACIoN ESPACIAL pasivo"
+},
+{
+	"min": 252000000,
+	"max": 265000000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE Tierra-espacio?RADIOASTRONOMiA?RADIONAVEGACIoN?Radionavegacion por satelite"
+},
+{
+	"min": 252000000,
+	"max": 265000000,
+	"text": "FIJO? MoVIL?MoVIL POR SATeLITE Tierra-espacio?RADIOASTRONOMiA?RADIONAVEGACIoN?Radionavegacion por satelite"
+},
+{
+	"min": 265000000,
+	"max": 275000000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?RADIOASTRONOMiA"
+},
+{
+	"min": 265000000,
+	"max": 275000000,
+	"text": "FIJO?FIJO POR SATeLITE Tierra-espacio? MoVIL?RADIOASTRONOMiA"
+},
+{
+	"min": 275000000,
+	"max": 3000000000,
+	"text": "No atribuida"
+}
+]

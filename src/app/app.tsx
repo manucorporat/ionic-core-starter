@@ -1,45 +1,54 @@
-import { Component } from '@stencil/core';
+import { Component, Element } from '@stencil/core';
 
 @Component({
   tag: 'my-app',
 })
 export class App {
 
-  pages: Array<{ title: string, component: any }>;
+  private searchByName: string = "page-home";
 
-  constructor() {
-    this.pages = [
-      { title: 'Home', component: 'page-home' },
-      { title: 'List', component: 'page-list' }
-    ];
+  @Element() el: HTMLElement;
+
+  getNav(): any {
+    return this.el.querySelector('ion-nav');
   }
 
-  openPage(page) {
-    const nav = document.getElementById('mainNav') as any;
-    nav.setRoot(page.component);
+  setPage(name: string) {
+    if (this.searchByName !== name) {
+      this.getNav().setRoot(name);
+      this.searchByName = name;
+    }
+  }
 
-    const menuCtrl = document.querySelector('ion-menu-controller') as any;
-    menuCtrl.close();
+  setByName() {
+    this.setPage('page-home');
+  }
+
+  setByFreq() {
+    this.setPage('page-range');
   }
 
   protected render() {
-    return [
-      <ion-menu side='start' content="mainNav">
-        <ion-header>
-          <ion-toolbar>
-            <ion-title>Menu</ion-title>
-          </ion-toolbar>
-        </ion-header>
+    const Nav = 'ion-nav' as any;
 
-        <ion-content>
-          <ion-list>
-            {this.pages.map(p => (
-              <ion-item onClick={() => this.openPage(p)}>{p.title}</ion-item>
-            ))}
-          </ion-list>
-        </ion-content>
-      </ion-menu>,
-      <ion-nav root='page-home' id="mainNav"></ion-nav>
+
+    return [
+      <ion-split-pane when={true}>
+        <ion-menu>
+          <ion-header>
+            <ion-toolbar color="dark">
+              <ion-title>CNAF app</ion-title>
+            </ion-toolbar>
+          </ion-header>
+          <ion-content>
+            <ion-list>
+              <ion-item onClick={() => this.setByName()}>Buscar por nombre</ion-item>
+              <ion-item onClick={() => this.setByFreq()}>Buscar por banda</ion-item>
+            </ion-list>
+          </ion-content>
+        </ion-menu>
+        <Nav root="page-home" main />
+      </ion-split-pane>
     ];
   }
 }

@@ -18,10 +18,11 @@
     "www": "bs --no-cleanup --directory ./www"
   },
   "dependencies": {
-    "@ionic/core": "0.0.2-23",
-    "@stencil/core": "0.0.8-3",
+    "@ionic/core": "0.0.2-27",
+    "@stencil/core": "0.0.8-9",
     "@stencil/router": "latest",
-    "ionicons": "^4.0.0-6"
+    "ionicons": "^4.0.0-6",
+    "simpleheat": "^0.4.0"
   },
   "devDependencies": {
     "@stencil/dev-server": "latest",

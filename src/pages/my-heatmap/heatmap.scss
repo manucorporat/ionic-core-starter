@@ -1,0 +1,29 @@
+
+my-heatmap {
+  margin-bottom: 2rem 0;
+  display: block;
+  border-bottom: 3px solid #e4e4e4;  background: white;
+}
+
+my-heatmap canvas {
+  display: block;
+  transform-origin: top;
+}
+
+my-heatmap h3 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  margin-left: 2rem;
+}
+
+my-heatmap > .legend {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1rem;
+  color: #9a9a9a;
+  font-weight: 600;
+}
+
+my-heatmap > .legend > div {
+  white-space: nowrap;
+}
